@@ -763,9 +763,9 @@
     <tag subtype="ignore">label</tag>
   </desc>
 </interp><listApp>
-  <app corresp="30,35">
-    <lem wit="#TVA-D">phyag</lem>
-    <rdg wit="#TVB-G">s phyag</rdg>
+  <app corresp="28,30">
+    <lem wit="#TVA-D">gi</lem>
+    <rdg wit="#TVB-G">gis</rdg>
   </app>
   <app corresp="105,108">
     <lem wit="#TVA-D">yin</lem>
