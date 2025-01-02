@@ -905,25 +905,13 @@
     <lem wit="#TVA-D">pa'o ||</lem>
     <rdg wit="#TVB-G">pa dang |</rdg>
   </app>
-  <app corresp="477,483">
-    <lem wit="#TVA-D">'phral</lem>
-    <rdg wit="#TVB-G">bde</rdg>
+  <app corresp="477,492">
+    <lem wit="#TVA-D">'phral gyi phan pa</lem>
+    <rdg wit="#TVB-G">bde ba</rdg>
   </app>
-  <app corresp="483,486">
-    <lem wit="#TVA-D">gyi</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="486,490">
-    <lem wit="#TVA-D">phan</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="490,492">
-    <lem wit="#TVA-D">pa</lem>
-    <rdg wit="#TVB-G">ba</rdg>
-  </app>
-  <app corresp="501,504">
-    <lem wit="#TVA-D">los</lem>
-    <rdg wit="#TVB-G">lo b</rdg>
+  <app corresp="501,509">
+    <lem wit="#TVA-D">los sgyur</lem>
+    <rdg wit="#TVB-G">lo bsgyur</rdg>
   </app>
   <app corresp="552,554">
     <lem wit="#TVA-D">du</lem>
@@ -949,13 +937,9 @@
     <lem wit="#TVA-D">rnyed</lem>
     <rdg wit="#TVB-G">nyid brnyes</rdg>
   </app>
-  <app corresp="708,710">
-    <lem wit="#TVA-D">mi</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="715,719">
-    <lem wit="#TVA-D">ba'i</lem>
-    <rdg wit="#TVB-G">ba med pa'i</rdg>
+  <app corresp="708,719">
+    <lem wit="#TVA-D">mi 'gyur ba'i</lem>
+    <rdg wit="#TVB-G">'gyur ba med pa'i</rdg>
   </app>
   <app corresp="794,803">
     <lem wit="#TVA-D">bya ba'o ||</lem>
