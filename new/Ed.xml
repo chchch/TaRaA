@@ -767,13 +767,9 @@
     <lem wit="#TVA-D">gi</lem>
     <rdg wit="#TVB-G">gis</rdg>
   </app>
-  <app corresp="105,108">
-    <lem wit="#TVA-D">yin</lem>
+  <app corresp="105,111">
+    <lem wit="#TVA-D">yin la |</lem>
     <rdg wit="#TVB-G">ste |</rdg>
-  </app>
-  <app corresp="108,111">
-    <lem wit="#TVA-D">la |</lem>
-    <rdg wit="#TVB-G"/>
   </app>
   <app corresp="118,121">
     <lem wit="#TVA-D">bar</lem>
@@ -819,16 +815,8 @@
     <lem wit="#TVA-D">gzhir</lem>
     <rdg wit="#TVB-G">gang gi gzhir</rdg>
   </app>
-  <app corresp="532,534">
-    <lem wit="#TVA-D">ba</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="534,538">
-    <lem wit="#TVA-D">gang</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="538,541">
-    <lem wit="#TVA-D">yin</lem>
+  <app corresp="532,541">
+    <lem wit="#TVA-D">ba gang yin</lem>
     <rdg wit="#TVB-G"/>
   </app>
   <app corresp="591,593">
@@ -853,45 +841,17 @@
     <lem wit="#TVA-D">nyams</lem>
     <rdg wit="#TVB-G">rang bzhin</rdg>
   </app>
-  <app corresp="144,147">
-    <lem wit="#TVA-D">med</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="147,149">
-    <lem wit="#TVA-D">pa</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="149,153">
-    <lem wit="#TVA-D">ste |</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="153,156">
-    <lem wit="#TVA-D">dpe</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="163,167">
-    <lem wit="#TVA-D">pa'i</lem>
-    <rdg wit="#TVB-G">pa'o ||</rdg>
+  <app corresp="141,167">
+    <lem wit="#TVA-D">dpe med pa ste | dpe las 'das pa'i</lem>
+    <rdg wit="#TVB-G">dpe las 'das pa'o ||</rdg>
   </app>
   <app corresp="208,212">
     <lem wit="#TVA-D">pa'i</lem>
     <rdg wit="#TVB-G">pa</rdg>
   </app>
-  <app corresp="281,283">
-    <lem wit="#TVA-D">de</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="283,287">
-    <lem wit="#TVA-D">nyid</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="287,289">
-    <lem wit="#TVA-D">ni</lem>
-    <rdg wit="#TVB-G"/>
-  </app>
-  <app corresp="293,302">
-    <lem wit="#TVA-D">gi 'od kyis</lem>
-    <rdg wit="#TVB-G">snang ba'i ngo bo</rdg>
+  <app corresp="281,302">
+    <lem wit="#TVA-D">de nyid ni rang gi 'od kyis</lem>
+    <rdg wit="#TVB-G">rang snang ba'i ngo bo</rdg>
   </app>
   <app corresp="345,347">
     <lem wit="#TVA-D">pa</lem>
