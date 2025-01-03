@@ -26,7 +26,15 @@
 					</msIdentifier>
 					<physDesc>
 						<extent>Folios 70v–85v</extent>
+                        <typeDesc>
+                            <typeNote scope="sole" script="dbucan"/>
+                        </typeDesc>
 					</physDesc>
+                    <msContents class="#STM">
+                        <msItem defective="false">
+                            <textLang mainLang="bod"/>
+                        </msItem>
+                    </msContents>
 				</msDesc>
 			</sourceDesc>
 		</fileDesc>
@@ -46,7 +54,7 @@
 		<body>
 			<div type="title">
 				<p xml:id="TV-title">
-					<milestone n="70v" unit="folio"/> <milestone n="1" unit="line"/>rgya gar skad du | tad ta rad na ā lo ka bya khya na | bod skad du | de kho na nyid rin po che snang ba'i rnam par bshad pa |
+					<milestone n="70v" unit="folio" facs="140"/> <milestone n="1" unit="line"/>rgya gar skad du | tad ta rad na ā lo ka bya khya na | bod skad du | de kho na nyid rin po che snang ba'i rnam par bshad pa |
 				</p>
 			</div>
 
@@ -63,7 +71,7 @@
 
 			<div type="main text">
 				<div type="section" n="1">
-					<head type="editorial">1 Benediction</head>
+					<head xml:lang="en" type="editorial">1 Benediction</head>
 					<div type="root verse">
 						<lg xml:id="T1">
 							<l>dpe med bde ba'i ngo bo dpal gyi gnas gyur gnas 'dren pa ||</l>
@@ -78,11 +86,11 @@
 						</p>
 
 						<p xml:id="TV1_2">
-							yang khyad par ci lta bu zhig dang ldan ce na | dpe med te gzugs mchog tu gyur pa dang na tshod dang | sgeg pa la sogs pa'i rang bzhin dang | snying rje chen po la sogs pa dang ldan pa nyid kyis na dpe las 'das <pb n="71r"/>pa'o || gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa lha mo bcu'i ngo bo rig ma'i 'khor gyis bskor ba gang la yod pa de la de skad ces bya'o || rang snang ba'i ngo bo rig pa ste shes rab <lb n="2"/>dang lhan cig 'jug pa'i phyir rig dang bcas pa'o || srid pa gsum ni srid pa gsum na gnas pa'i skye bo'o || gang la phan pa ni ma 'ongs pa'i phan pa ste | sangs rgyas nyid la sogs pa dang | de la bde ba ni bde <lb n="3"/>ba ste | 'khor lo bsgyur ba nyid la sogs pa'o || de thob pa ni rnyed pa ste | mngon sum du byas pa'o || de dag gi rgyu mdzad pa gang yin pa de la de skad ces bya'o || yongs su mya ngan las mi 'da' ba'i chos nyid kyi <lb n="4"/>mi gnas pa'i mya ngan las 'das pa'i ngo bo nyid brnyes pas rnam pa gzhan du 'gyur ba med pa'i phyir 'gyur ba med pa yin te | de lta bu'i khyad par can gyi bcom ldan 'das rgyal bar gyur cig ces pa'o ||
+							yang khyad par ci lta bu zhig dang ldan ce na | dpe med te gzugs mchog tu gyur pa dang na tshod dang | sgeg pa la sogs pa'i rang bzhin dang | snying rje chen po la sogs pa dang ldan pa nyid kyis na dpe las 'das <pb n="71r" facs="141"/>pa'o || gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa lha mo bcu'i ngo bo rig ma'i 'khor gyis bskor ba gang la yod pa de la de skad ces bya'o || rang snang ba'i ngo bo rig pa ste shes rab <lb n="2"/>dang lhan cig 'jug pa'i phyir rig dang bcas pa'o || srid pa gsum ni srid pa gsum na gnas pa'i skye bo'o || gang la phan pa ni ma 'ongs pa'i phan pa ste | sangs rgyas nyid la sogs pa dang | de la bde ba ni bde <lb n="3"/>ba ste | 'khor lo bsgyur ba nyid la sogs pa'o || de thob pa ni rnyed pa ste | mngon sum du byas pa'o || de dag gi rgyu mdzad pa gang yin pa de la de skad ces bya'o || yongs su mya ngan las mi 'da' ba'i chos nyid kyi <lb n="4"/>mi gnas pa'i mya ngan las 'das pa'i ngo bo nyid brnyes pas rnam pa gzhan du 'gyur ba med pa'i phyir 'gyur ba med pa yin te | de lta bu'i khyad par can gyi bcom ldan 'das rgyal bar gyur cig ces pa'o ||
 						</p>
 
 						<p xml:id="TV1_3">
-							dus ji srid <lb n="5"/>du ce na | ci srid re bar snang ba zhes bya ba smos te | <note place="below">ka pa</note> re ba'i ngo bo'i sgra ni phyogs bcu'i nam mkha'i <note place="below">a ka pa</note> rang gi ngo bo'am | yang na re ba ste sems can thams cad srid pa'i longs spyod la sred pa'o || re ba snang ba ni gsal ba ste | <lb n="6"/>rab tu 'jug pa | rab tu skye ba'i bar du'o || de srid bcom ldan 'das rgyal bar gyur pa ste | khyab <note place="below">ha ri ha ra</note> 'jug dang lha <note place="below">hi ran na gar ba</note> chen po dang | tshangs pa la sogs pa thams cad las khyad par du 'phags par <pb n="71v"/>gyur pa zhes bya ba'i don to ||
+							dus ji srid <lb n="5"/>du ce na | ci srid re bar snang ba zhes bya ba smos te | <note place="below">ka pa</note> re ba'i ngo bo'i sgra ni phyogs bcu'i nam mkha'i <note place="below">a ka pa</note> rang gi ngo bo'am | yang na re ba ste sems can thams cad srid pa'i longs spyod la sred pa'o || re ba snang ba ni gsal ba ste | <lb n="6"/>rab tu 'jug pa | rab tu skye ba'i bar du'o || de srid bcom ldan 'das rgyal bar gyur pa ste | khyab <note place="below">ha ri ha ra</note> 'jug dang lha <note place="below">hi ran na gar ba</note> chen po dang | tshangs pa la sogs pa thams cad las khyad par du 'phags par <pb n="71v" facs="142"/>gyur pa zhes bya ba'i don to ||
 						</p>
 
 						<p xml:id="TV1.4">
@@ -92,7 +100,7 @@
 				</div>
 
 				<div type="section" n="2">
-					<head type="editorial">2 Purpose of the composition etc.</head>
+					<head xml:lang="en" type="editorial">2 Purpose of the composition etc.</head>
 					<div type="root text">
 						<lg xml:id="T2">
 							<l>sngags kyi gzhung lugs mdzes pa'i dbang bzhi'i ngo bo dag |</l>
@@ -103,13 +111,13 @@
 					</div>
 					<div type="commentary">
 						<p xml:id="TV2">
-							dpal ldan sngags kyi gzhung lugs zhes bya ba'i sgras | rnal 'byor rgyud spyir brjod par byed pa yin du zin kyang | shugs kyis dpal gsang ba 'dus pa yongs su gzung bar bya ste | <lb n="5"/>gzhan dag la don bzhi pa mi srid pa'i phyir ro || lhag ma ni go sla'o || slob dpon du ma'i man ngag gis yongs su dkrugs pa'i rnam par 'khrugs pa rnam par bkab pa ste | bdun gyi dbye bas zhes bya ba ni 'das pa <lb n="6"/>dang | ma 'ongs pa dang | da ltar gyi slob dpon du gtogs pa'i man ngag gi tshogs yang dag par bsdus pas so || gsal bar rtogs par bya ba'i phyir | zhes bya ba ni bde bar gsal bar khong du chud par bya'o || <pb n="72r"/>zhes bya ba'i tha tshig go ||
+							dpal ldan sngags kyi gzhung lugs zhes bya ba'i sgras | rnal 'byor rgyud spyir brjod par byed pa yin du zin kyang | shugs kyis dpal gsang ba 'dus pa yongs su gzung bar bya ste | <lb n="5"/>gzhan dag la don bzhi pa mi srid pa'i phyir ro || lhag ma ni go sla'o || slob dpon du ma'i man ngag gis yongs su dkrugs pa'i rnam par 'khrugs pa rnam par bkab pa ste | bdun gyi dbye bas zhes bya ba ni 'das pa <lb n="6"/>dang | ma 'ongs pa dang | da ltar gyi slob dpon du gtogs pa'i man ngag gi tshogs yang dag par bsdus pas so || gsal bar rtogs par bya ba'i phyir | zhes bya ba ni bde bar gsal bar khong du chud par bya'o || <pb n="72r" facs="143"/>zhes bya ba'i tha tshig go ||
 						</p>
 					</div>
 				</div>
 
 				<div type="section" n="3">
-					<head type="editorial">3 Introducing the realities and goals of non-Buddhist</head>
+					<head xml:lang="en" type="editorial">3 Introducing the realities and goals of non-Buddhist</head>
 					<div type="root text">
 						<lg xml:id="T3">
 							<l>dpal ldan de nyid bsgrub bya'i ngo bor rig pa la ||</l>
@@ -130,7 +138,7 @@
 				</div>
 
 				<div type="section" n="4">
-					<head type="editorial">4 The goals of the Vedāntavādins, Śrāvakas, and Pratyekabuddhas</head>
+					<head xml:lang="en" type="editorial">4 The goals of the Vedāntavādins, Śrāvakas, and Pratyekabuddhas</head>
 					<div type="commentary">
 						<p xml:id="TV4_1">
 							de la rig byed kyi mthar smra ba'i mngon par 'dod pa'i sgrub par bya ba ni | dga' ba'i ngo bo zhes bya ba la sogs pa smos te |
@@ -146,7 +154,7 @@
 					</div>
 					<div type="commentary">
 						<p xml:id="T4_2">
-							dga' ba'i ngo bo nyid ni rtag <pb n="72v"/>tu bde ba'i rang bzhin nyid yin pa'i phyir ro || rang rig pa ni gsal ba'i ngo bo nyid kyis bdag nyid rab tu snang ba nyid kyi phyir ro || mi g.yo ba zhes bya ba ni | mi rtag pa nyid kyis bskyod par mi nus pa'i phyir <lb n="2"/>ro || zhi ba ni nyon mongs pa dang nye ba'i nyon mongs pas stong pa nyid du yongs su brtags pa'i phyir ro || rnam pa de lta bu bsgrub par bya ba la 'dun pa ni 'dod pa'o ||
+							dga' ba'i ngo bo nyid ni rtag <pb n="72v" facs="144"/>tu bde ba'i rang bzhin nyid yin pa'i phyir ro || rang rig pa ni gsal ba'i ngo bo nyid kyis bdag nyid rab tu snang ba nyid kyi phyir ro || mi g.yo ba zhes bya ba ni | mi rtag pa nyid kyis bskyod par mi nus pa'i phyir <lb n="2"/>ro || zhi ba ni nyon mongs pa dang nye ba'i nyon mongs pas stong pa nyid du yongs su brtags pa'i phyir ro || rnam pa de lta bu bsgrub par bya ba la 'dun pa ni 'dod pa'o ||
 						</p>
 
 						<p xml:id="TV4_3">
@@ -156,7 +164,7 @@
 				</div>
 
 				<div type="section" n="5">
-					<head type="editorial">5 The Four Type of Goals of Adherents to the Way of Perfections</head>
+					<head xml:lang="en" type="editorial">5 The Four Type of Goals of Adherents to the Way of Perfections</head>
 					<div type="commentary">
 						<p xml:id="TV5">
 							da ni pha rol tu phyin pa'i tshul du smra ba dag mngon par 'dod pa'i bsgrub par bya ba rnam pa bzhi bstan pa'i phyir | rnam pas stong pa zhes bya ba la sogs pa smos te |
@@ -177,31 +185,31 @@
 						</lg>
 					</div>
 					<div type="subsection" n="5.1">
-						<head type="editorial">5.1 The first kind of goal in the Way of the Perfections</head>
+						<head xml:lang="en" type="editorial">5.1 The first kind of goal in the Way of the Perfections</head>
 						<div type="commentary">
 							<p xml:id="TV5.1">
-								rnam pa ni <pb n="73r"/> sngon po dang | ser po dang | bde ba dang | sdug bsngal la sogs sna tshogs pa'i ngo bo'o || des stong pa ste <note place="below">rnam pa rdzun pa'i gzhung</note> rnam pa brdzun pa'o || rnam pa med pa de nyid kyi phyir na nam mkha' lta bu'o || gang gi <lb n="2"/>rang bzhin zla ba dang 'dra bar 'od gsal ba'i ngo bo nyid yin pa de la de skad ces bya'o || so so rang rig ces bya ba ni rang rig pa gcig pu'i ngo bo rig pa'o || 'dir <note place="below">phung po</note> sdug bsngal dang sdug <lb n="3"/>bsngal gyi rgyu <note place="below">mi dge bcu las dang nyon mongs</note> dag las 'gro ba ma lus par 'don par 'dod pa'i snying rje'i rang bzhin gang yin pa de la de skad ces bya'o || 'di skad du bshad par 'gyur te || pha rol tu phyin pa nye bar ston pa'i sgras brjod <lb n="4"/>par bya ba sngon po dang | ser po la sogs pa'i rnam pa sna tshogs pas stong zhing snang ba med la | dri ma med pa nam mkha' lta bur dag pa 'gro ba ma lus pa'i don byed pa'i snying rje chen po dang <lb n="5"/>ldan pa so so rang gis rig pa ni bsgrub par bya ba yin te | pha rol tu phyin pa'i tshul gyi bsgrub par bya ba dang po'o |
+								rnam pa ni <pb n="73r" facs="145"/> sngon po dang | ser po dang | bde ba dang | sdug bsngal la sogs sna tshogs pa'i ngo bo'o || des stong pa ste <note place="below">rnam pa rdzun pa'i gzhung</note> rnam pa brdzun pa'o || rnam pa med pa de nyid kyi phyir na nam mkha' lta bu'o || gang gi <lb n="2"/>rang bzhin zla ba dang 'dra bar 'od gsal ba'i ngo bo nyid yin pa de la de skad ces bya'o || so so rang rig ces bya ba ni rang rig pa gcig pu'i ngo bo rig pa'o || 'dir <note place="below">phung po</note> sdug bsngal dang sdug <lb n="3"/>bsngal gyi rgyu <note place="below">mi dge bcu las dang nyon mongs</note> dag las 'gro ba ma lus par 'don par 'dod pa'i snying rje'i rang bzhin gang yin pa de la de skad ces bya'o || 'di skad du bshad par 'gyur te || pha rol tu phyin pa nye bar ston pa'i sgras brjod <lb n="4"/>par bya ba sngon po dang | ser po la sogs pa'i rnam pa sna tshogs pas stong zhing snang ba med la | dri ma med pa nam mkha' lta bur dag pa 'gro ba ma lus pa'i don byed pa'i snying rje chen po dang <lb n="5"/>ldan pa so so rang gis rig pa ni bsgrub par bya ba yin te | pha rol tu phyin pa'i tshul gyi bsgrub par bya ba dang po'o |
 							</p>
 						</div>
 					</div>
 					<div type="subsection" n="5.2">
-						<head type="editorial">5.2 The second kind of goal in the Way of the Perfections</head>
+						<head xml:lang="en" type="editorial">5.2 The second kind of goal in the Way of the Perfections</head>
 						<div type="commentary">
 							<p xml:id="TV5.2">
-								mdzes pa <note place="below">rnam pa dang bcas pa</note> yang de nyid yin la mtshan yang de nyid yin pas na || mdzad pa'i mtshan sum cu rtsa <lb n="6"/>gnyis zhes bya ste | des brgyan pa'o || don te skye bo rnams kyis dgos pa mdzad pa'i ngang tshul can gyi rang bzhin gang la yod pa de ni de'i don mdzad pa'o || sbyin pa la sogs pa pha rol tu phyin pa <pb n="73v"/>bcu'i rgyu mthun pa de ni rab kyi mtha'i stobs nyid kyis 'dra ba'i 'bras bu'o || sdug bsngal sngar spangs pa nyid kyi phyir dang | bde ba yang mngon sum du byas pa'i gnas skabs na med pa'i phyir | btang <lb n="2"/>snyoms kyi ngo bo nyid kyis bde ba nyid med pa'i ni bde bral ba'o || 'di skad du bstan par 'gyur te | mtshan sum cu rtsa gnyis 'dzin cing | dpe byad bzang po brgyad cus rnam par spras pa'i sku 'gro ba ma lus pa'i <lb n="3"/>don mdzad pa | sbyin pa la sogs pa'i pha rol tu phyin pa goms par mdzad pa'i stobs kyis byung ba yang dag par rdzogs pa'i sangs rgyas kyi ngo bo nyid bde ba dang | sdug bsngal spangs pa'i btang snyoms kyi ngo bo nyid <lb n="4"/>bsgrub par bya ba gnyis pa yin no ||
+								mdzes pa <note place="below">rnam pa dang bcas pa</note> yang de nyid yin la mtshan yang de nyid yin pas na || mdzad pa'i mtshan sum cu rtsa <lb n="6"/>gnyis zhes bya ste | des brgyan pa'o || don te skye bo rnams kyis dgos pa mdzad pa'i ngang tshul can gyi rang bzhin gang la yod pa de ni de'i don mdzad pa'o || sbyin pa la sogs pa pha rol tu phyin pa <pb n="73v" facs="146"/>bcu'i rgyu mthun pa de ni rab kyi mtha'i stobs nyid kyis 'dra ba'i 'bras bu'o || sdug bsngal sngar spangs pa nyid kyi phyir dang | bde ba yang mngon sum du byas pa'i gnas skabs na med pa'i phyir | btang <lb n="2"/>snyoms kyi ngo bo nyid kyis bde ba nyid med pa'i ni bde bral ba'o || 'di skad du bstan par 'gyur te | mtshan sum cu rtsa gnyis 'dzin cing | dpe byad bzang po brgyad cus rnam par spras pa'i sku 'gro ba ma lus pa'i <lb n="3"/>don mdzad pa | sbyin pa la sogs pa'i pha rol tu phyin pa goms par mdzad pa'i stobs kyis byung ba yang dag par rdzogs pa'i sangs rgyas kyi ngo bo nyid bde ba dang | sdug bsngal spangs pa'i btang snyoms kyi ngo bo nyid <lb n="4"/>bsgrub par bya ba gnyis pa yin no ||
 							</p>
 						</div>
 					</div>
 					<div type="subsection" n="5.3">
-						<head type="editorial">5.3 The third kind of goal in the Way of the Perfections</head>
+						<head xml:lang="en" type="editorial">5.3 The third kind of goal in the Way of the Perfections</head>
 						<div type="commentary">
 							<p xml:id="TV5.3">
-								dga' bcas <note place="below">rnam bcas kyi gzhung</note> zhes bya ba la sogs pa la | dga' ba dang lhan cig 'jug pa'i phyir de dga' ba dang bcas pa yang yin la | mdzes pa'i mtshan gyis brgyan pa'i sku yang yin pas so | <lb n="4"/>yang dag longs spyod pa ni chos ston pa'i sgo nas nye bar longs spyod par gyur pa'o || su zhig gis zhe na || sa bcu'i dbang phyug rnams kyis te | sa lhag ma rnams na gnas pa'i spyod yul ma yin pa nyid kyi phyir | sa bcu <lb n="5"/>pa brnyes pa spyan ras gzigs dbang phyug dang | 'jam dpal la sogs pa rnams kyis longs spyod par bya ba yin no || zhes bya ba'i bar du'o || lhag ma ni go sla'o || 'di skad du bshad par 'gyur te | gnas <pb n="74r"/>gtsang ma'i steng na yang dag par rdzogs pa'i sangs rgyas kyi pho brang stug po bkod pa zhes bya ba na | ji ltar bcom ldan 'das dga' ba'i ngo bo longs spyod rdzogs pa'i sku'i bdag nyid can | sprul pa'i sku'i sgo <lb n="2"/>nas 'gro ba ma lus pa'i don yang dag par sgrub par mdzad pa | nyan thos dang rang sangs rgyas dang sa dgu'i dbang phyug rnams kyis kyang ma mthong ba'i sku can | sa bcu'i dbang phyug mchog tu gyur pa'i byang chub sems dpa' kho nas <lb n="3"/>chos gsan pa'i sgo nas nye bar longs spyod par bya ba 'khor ba ji srid du bzhugs te | de lta bu ni bsgrub par bya ba gsum pa yin no ||
+								dga' bcas <note place="below">rnam bcas kyi gzhung</note> zhes bya ba la sogs pa la | dga' ba dang lhan cig 'jug pa'i phyir de dga' ba dang bcas pa yang yin la | mdzes pa'i mtshan gyis brgyan pa'i sku yang yin pas so | <lb n="4"/>yang dag longs spyod pa ni chos ston pa'i sgo nas nye bar longs spyod par gyur pa'o || su zhig gis zhe na || sa bcu'i dbang phyug rnams kyis te | sa lhag ma rnams na gnas pa'i spyod yul ma yin pa nyid kyi phyir | sa bcu <lb n="5"/>pa brnyes pa spyan ras gzigs dbang phyug dang | 'jam dpal la sogs pa rnams kyis longs spyod par bya ba yin no || zhes bya ba'i bar du'o || lhag ma ni go sla'o || 'di skad du bshad par 'gyur te | gnas <pb n="74r" facs="147"/>gtsang ma'i steng na yang dag par rdzogs pa'i sangs rgyas kyi pho brang stug po bkod pa zhes bya ba na | ji ltar bcom ldan 'das dga' ba'i ngo bo longs spyod rdzogs pa'i sku'i bdag nyid can | sprul pa'i sku'i sgo <lb n="2"/>nas 'gro ba ma lus pa'i don yang dag par sgrub par mdzad pa | nyan thos dang rang sangs rgyas dang sa dgu'i dbang phyug rnams kyis kyang ma mthong ba'i sku can | sa bcu'i dbang phyug mchog tu gyur pa'i byang chub sems dpa' kho nas <lb n="3"/>chos gsan pa'i sgo nas nye bar longs spyod par bya ba 'khor ba ji srid du bzhugs te | de lta bu ni bsgrub par bya ba gsum pa yin no ||
 							</p>
 						</div>
 					</div>
 					<div type="subsection" n="5.4">
-						<head type="editorial">5.4 Four kind of goals in the Way of the Perfections</head>
+						<head xml:lang="en" type="editorial">5.4 Four kind of goals in the Way of the Perfections</head>
 						<div type="root text">
 							<lg xml:id="T7">
 								<l>sbyin sogs yon tan ma lus yongs rdzogs pa ||</l>
@@ -219,9 +227,9 @@
 				</div>
 
 				<div type="section" n="6">
-					<head type="editorial">6 The seven kinds of goals in the Way of Mantra</head>
+					<head xml:lang="en" type="editorial">6 The seven kinds of goals in the Way of Mantra</head>
 					<div type="subsection" n="6.1">
-						<head type="editorial">6.1 The first kind of goal in the Way of Mantra</head>
+						<head xml:lang="en" type="editorial">6.1 The first kind of goal in the Way of Mantra</head>
 						<div type="commentary">
 							<p xml:id="TV6_1">
 								da ni sngags kyi tshul du bshad pa'i bsgrub par bya ba rnam pa bdun bstan par bya ba'i phyir | nyid mtshungs <note place="below">a na ga badz+ra</note> lha mo zhes bya ba la sogs pa smos te |
@@ -237,12 +245,12 @@
 						</div>
 						<div type="commentary">
 							<p xml:id="TV6_2">
-								nyid <pb n="74v"/>dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang la mnga' ba de ni nyid mtshungs lha mos 'khyud pa can no || rtog pa dang bral ba ni rnam par rtog pa med cing rnam par rtog pa spangs pa zhes bya ba'i <lb n="2"/>bar du'o || gzhan ni go sla'o || don ni 'di yin te | yang dag par 'khyud pa ste | nyid dang mtshungs pa'i lha <note place="below">kha</note> mos 'khyud pa can 'gro <note place="below">ga</note> ba'i don mdzad pa'i sku <note place="below">ka</note> mtshan sum cu rtsa gnyis la sogs pas <lb n="3"/>rnam par brgyan pa btang snyoms kyi ngo bo nyid du 'khor ba <note place="below">nga</note> ji bzhugs pa mngon sum du bya ba yin zhes bya ba ni bsgrub bya dang po'o ||
+								nyid <pb n="74v" facs="148"/>dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang la mnga' ba de ni nyid mtshungs lha mos 'khyud pa can no || rtog pa dang bral ba ni rnam par rtog pa med cing rnam par rtog pa spangs pa zhes bya ba'i <lb n="2"/>bar du'o || gzhan ni go sla'o || don ni 'di yin te | yang dag par 'khyud pa ste | nyid dang mtshungs pa'i lha <note place="below">kha</note> mos 'khyud pa can 'gro <note place="below">ga</note> ba'i don mdzad pa'i sku <note place="below">ka</note> mtshan sum cu rtsa gnyis la sogs pas <lb n="3"/>rnam par brgyan pa btang snyoms kyi ngo bo nyid du 'khor ba <note place="below">nga</note> ji bzhugs pa mngon sum du bya ba yin zhes bya ba ni bsgrub bya dang po'o ||
 							</p>
 						</div>
 					</div>
 					<div type="subsection" n="6.2">
-						<head type="editorial">6.2 The second kind of goal in the Way of Mantra</head>
+						<head xml:lang="en" type="editorial">6.2 The second kind of goal in the Way of Mantra</head>
 						<div type="root text">
 							<lg xml:id="T9">
 								<l>dang po nyid nas lha yi rnam pa dag |</l>
@@ -253,12 +261,12 @@
 						</div>
 						<div type="commentary">
 							<p xml:id="TV6.2">
-								dang po nyid nas zhes <note place="in line">sha ra ba</note> bya ba la sogs pa la | rang lha'i rnam <lb n="4"/>pa'i khyad par te | bdag nyid kyi 'dod pa'i lha rnams pas stong pa dang | rnam pa med pa zhes bya ba'i bar du'o || dang po nyid nas zhes bya ba ni thog ma nyid nas bshad ma thag pa'i lha'i rnam <lb n="5"/>pa nyid la bltos pa med par bde ba yang dag par bsgom par bya ba bsgom pas | mngon du bya ba gsal ba ma yin pa gsal bar byas par gyur pa ni bde ba chen po zhes bya bar 'gyur ro || de yang 'gro don mdzad <lb n="6"/>pa ni yid bzhin gyi nor bu dang mtshungs pa'i tshul du'o || 'di skad du bshad par 'gyur te | bshad ma thag pa'i nyid kyi sngags <note place="below">sa bon las <space/>lha'i sku</note> dang phyag rgya dang lha'i rnam pa nyid spangs ste | bsgoms pas gsal por <pb n="75r"/>byas pa bde <note place="below">ka</note> ba chen po zhes bya ba yid bzhin gyi nor <note place="below">kha</note> bu bzhin du 'gro ba'i don mdzad pa | sgyu ma lta bu 'khor ba ji srid <note place="below">ga</note> par bzhugs pa ni bsgrub par bya ba gnyis pa'o ||
+								dang po nyid nas zhes <note place="in line">sha ra ba</note> bya ba la sogs pa la | rang lha'i rnam <lb n="4"/>pa'i khyad par te | bdag nyid kyi 'dod pa'i lha rnams pas stong pa dang | rnam pa med pa zhes bya ba'i bar du'o || dang po nyid nas zhes bya ba ni thog ma nyid nas bshad ma thag pa'i lha'i rnam <lb n="5"/>pa nyid la bltos pa med par bde ba yang dag par bsgom par bya ba bsgom pas | mngon du bya ba gsal ba ma yin pa gsal bar byas par gyur pa ni bde ba chen po zhes bya bar 'gyur ro || de yang 'gro don mdzad <lb n="6"/>pa ni yid bzhin gyi nor bu dang mtshungs pa'i tshul du'o || 'di skad du bshad par 'gyur te | bshad ma thag pa'i nyid kyi sngags <note place="below">sa bon las <space/>lha'i sku</note> dang phyag rgya dang lha'i rnam pa nyid spangs ste | bsgoms pas gsal por <pb n="75r" facs="149"/>byas pa bde <note place="below">ka</note> ba chen po zhes bya ba yid bzhin gyi nor <note place="below">kha</note> bu bzhin du 'gro ba'i don mdzad pa | sgyu ma lta bu 'khor ba ji srid <note place="below">ga</note> par bzhugs pa ni bsgrub par bya ba gnyis pa'o ||
 							</p>
 						</div>
 					</div>
 					<div type="subsection" n="6.3">
-						<head type="editorial">6.3 The third kind of goal in the Way of Mantra</head>
+						<head xml:lang="en" type="editorial">6.3 The third kind of goal in the Way of Mantra</head>
 						<div type="root text">
 							<lg xml:id="T10">
 								<l>rang bdag bde ba'i ngo bo mngon byas nas ||</l>
@@ -272,12 +280,12 @@
 								rang bdag <note place="below">rad na a kar shan ti</note> ces bya ba la sogs <lb n="2"/>pa smos pa la | rang gi bdag po ste | rang gi 'dod pa'i lha nyid dang | bde ba'i ngo bo ni bde ba gcig pu'i rang bzhin no || mngon byas pa ni kun nas mngon du byas pa yin no || phyis lha'i rnam pa <lb n="3"/>nyid yongs su btang nas bsgrub par bya ba'i 'bras bu bde ba tsam la rnam par gnas par 'gyur ro ||
 							</p>
 							<p xml:id="TV6.3_2">
-								mngon sum du byas nas kyang lha'i rnam pa ngo bo nyid btang bar bya ba yin pa de lta na ni | dang po nyid ci'i phyir rnam pa bsgom <lb n="4"/>par byed de | bsgrub par bya ba gnyis pa bzhin du bde ba tsam nyid ci ste bsgom par mi byed ma yin nam | ngal ba don med pas ci zhig bya zhe na | dag pa zhes bya ba la sogs pa smos te | dag pa <note place="below">bde ba</note> 'ba' shig lha'i <lb n="5"/>rnam pa dang rnam par bral'i ba'i bde ba tsam kho nas mngon sum du byed mi nus te | rnam pa dang bral ba'i bde ba mi dmigs <note place="below">bde ba'i ngo bo</note> pa'i phyir ro || rgyu de'i phyir rang gi bdag po rnam par bsgom par byed pa zhes bya ba <lb n="6"/>gsum pa yin no || don ni 'di yin te | lha nyid kyi rnam par dang ldan pa'i bde ba kho na rnam par bsgom par bya ba mngon sum du byas nas lha'i rnam pa nyid btang ste | bde ba <note place="below">kha</note> tsam kho na sbgrub par bya ba <pb n="75v"/>yon tan can du 'chad do |
+								mngon sum du byas nas kyang lha'i rnam pa ngo bo nyid btang bar bya ba yin pa de lta na ni | dang po nyid ci'i phyir rnam pa bsgom <lb n="4"/>par byed de | bsgrub par bya ba gnyis pa bzhin du bde ba tsam nyid ci ste bsgom par mi byed ma yin nam | ngal ba don med pas ci zhig bya zhe na | dag pa zhes bya ba la sogs pa smos te | dag pa <note place="below">bde ba</note> 'ba' shig lha'i <lb n="5"/>rnam pa dang rnam par bral'i ba'i bde ba tsam kho nas mngon sum du byed mi nus te | rnam pa dang bral ba'i bde ba mi dmigs <note place="below">bde ba'i ngo bo</note> pa'i phyir ro || rgyu de'i phyir rang gi bdag po rnam par bsgom par byed pa zhes bya ba <lb n="6"/>gsum pa yin no || don ni 'di yin te | lha nyid kyi rnam par dang ldan pa'i bde ba kho na rnam par bsgom par bya ba mngon sum du byas nas lha'i rnam pa nyid btang ste | bde ba <note place="below">kha</note> tsam kho na sbgrub par bya ba <pb n="75v" facs="150"/>yon tan can du 'chad do |
 							</p>
 						</div>
 					</div>
 					<div type="subsection" n="6.4">
-						<head type="editorial">6.4 The fourth kind of goal in the Way of Mantra</head>
+						<head xml:lang="en" type="editorial">6.4 The fourth kind of goal in the Way of Mantra</head>
 						<div type="root text">
 							<lg xml:id="T11">
 								<l>sku ni nam mkha' dang mtshungs yan lag mtshan gyis brgyan ||</l>
@@ -291,13 +299,13 @@
 								sku ni zhes bya ba la sogs pa la | <note place="below">rang gi 'dod pa</note> gang gi sku <sic>nim</sic> mkha' dang mtshungs pa ni <note place="below">'ja' tshon lta bur</note> sgyu ma dang 'dra bar dpyad mi bzod pa'o || gang gi yan lan mtshan gyis te | mtshan sum cu rtsa gnyid dang <lb n="2"/>dpe byad bzang po brgyad cus spras par gyur pa'o | dpe med ces bya ba ni lhun che ba nyid dang | bar med pa nyid dang | 'khor ba ci srid par rab tu 'jug pa nyid dang | zag pa med pa <lb n="3"/>nyid la sogs pa rnams kyis dpe med pa'i phyir | dpe las 'das pa'i bde bas gang ba ni | ba spu'i rtse mo'i mthar thug par yang dag par gang bar gyur pa'o || nyid dang mtshungs pa yang de lta bur gyur pas 'dus pa <lb n="4"/>ste kun nas 'khyud par 'gyur pa'o || thub pa'i dbang po dpag tu med pa 'phro ba yang de lta bur gyur pa kho nas sems can thams cad kyi don mdzad pa'o || chad pas zhes bya ba ni 'gog pas sgong pa ste spangs <lb n="5"/>pa'o ||
 							</p>
 							<p xml:id="TV6.4_2">
-								'di skad du bshad par 'gyur te | nam mkha' dang sgyu ma dang | smig rgyu dang | dri za'i khrong khyer dang | chu zla dang gzugs brnyad dang | rmi lam dang 'dra bar gcig dang | du ma dang | dngos po dang | dngos po <lb n="6"/>med pa dang | gzung ba dang | 'dzin pa'i rang bzhin bral ba | thog ma dang tha ma med pa'i dngos po ma lus pa'i rang bzhin snang ba med pa dri ma med pa dpe thams cad las shin tu 'das pa | mchog tu phra zhing shin <pb n="76r"/>tu zab pa shes rab kyi ngo bo nyid kyis chos kyi sku'i rang bzhin yin pa dang | sku <note place="below">ka</note> mtshan sum cu rtsa gnyis kyis brgyan cing dpe byad bzang po brgyad cus rnam par spras pa mchog tu sgeg cing na <lb n="2"/>tshod la sogs pa dang ldan pa dang | sku nyid dang mtshungs pa'i lha <note place="below">kha</note> mos 'khyud cing | gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa'i lha mo'i tshogs kyis mtshan ma med pa'i rang gi ngo bo'i rab <lb n="3"/>tu dpag tu med pas mchog tu dga' ba la nye bar longs spyod pa'i sgo nas gzugs brnyan dang 'dra bas yang dag par longs spyod pa ni snying rje'i rang bzhin rgya che ba nyid kyis longs spyod rdzogs pa'i ngo bo <lb n="4"/>nyid dang | gdul bya'i skye bo mos pa sna tshogs pa yongs su smin <note place="below">ca</note> par bya ba'i don du rdzu 'phrul dang cho 'phrul rnam pa du ma'i sgo nas rigs kyi nang du chud pa'i rdzogs pa'i sangs rgyas dang byang chub sems dpa'i <lb n="5"/>sprul pa dpag tu med pa spro ba dang | bsdu ba mdzad pa nyid kyis na sprul pa'i sku'i bdag nyid dang | stong pa nyid dang snying rje dang tha mi dad pa'i byang chub kyi rang bzhin dri ma med pa shes rab dang thabs kyi ting nge <lb n="6"/>'dzin las yang dag par byung ba'i bde <note place="below">ga</note> ba dam pas gang 'khor ba ji srid <note place="below">ja</note> par bzhugs pa'i chos can | mi gnas pa'i mya ngan las 'das pa'i ngo bo dang | mar me rlung gis ma bskyod pa'i rtse mo bzhin du dri ma <pb n="76v"/>med pa'i rgyun gyis rtag pa nyid kyi <note place="below">cha</note> 'gog pas stong pa ni bsgrub par bya ba bzhi pa'o ||
+								'di skad du bshad par 'gyur te | nam mkha' dang sgyu ma dang | smig rgyu dang | dri za'i khrong khyer dang | chu zla dang gzugs brnyad dang | rmi lam dang 'dra bar gcig dang | du ma dang | dngos po dang | dngos po <lb n="6"/>med pa dang | gzung ba dang | 'dzin pa'i rang bzhin bral ba | thog ma dang tha ma med pa'i dngos po ma lus pa'i rang bzhin snang ba med pa dri ma med pa dpe thams cad las shin tu 'das pa | mchog tu phra zhing shin <pb n="76r" facs="151"/>tu zab pa shes rab kyi ngo bo nyid kyis chos kyi sku'i rang bzhin yin pa dang | sku <note place="below">ka</note> mtshan sum cu rtsa gnyis kyis brgyan cing dpe byad bzang po brgyad cus rnam par spras pa mchog tu sgeg cing na <lb n="2"/>tshod la sogs pa dang ldan pa dang | sku nyid dang mtshungs pa'i lha <note place="below">kha</note> mos 'khyud cing | gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa'i lha mo'i tshogs kyis mtshan ma med pa'i rang gi ngo bo'i rab <lb n="3"/>tu dpag tu med pas mchog tu dga' ba la nye bar longs spyod pa'i sgo nas gzugs brnyan dang 'dra bas yang dag par longs spyod pa ni snying rje'i rang bzhin rgya che ba nyid kyis longs spyod rdzogs pa'i ngo bo <lb n="4"/>nyid dang | gdul bya'i skye bo mos pa sna tshogs pa yongs su smin <note place="below">ca</note> par bya ba'i don du rdzu 'phrul dang cho 'phrul rnam pa du ma'i sgo nas rigs kyi nang du chud pa'i rdzogs pa'i sangs rgyas dang byang chub sems dpa'i <lb n="5"/>sprul pa dpag tu med pa spro ba dang | bsdu ba mdzad pa nyid kyis na sprul pa'i sku'i bdag nyid dang | stong pa nyid dang snying rje dang tha mi dad pa'i byang chub kyi rang bzhin dri ma med pa shes rab dang thabs kyi ting nge <lb n="6"/>'dzin las yang dag par byung ba'i bde <note place="below">ga</note> ba dam pas gang 'khor ba ji srid <note place="below">ja</note> par bzhugs pa'i chos can | mi gnas pa'i mya ngan las 'das pa'i ngo bo dang | mar me rlung gis ma bskyod pa'i rtse mo bzhin du dri ma <pb n="76v" facs="152"/>med pa'i rgyun gyis rtag pa nyid kyi <note place="below">cha</note> 'gog pas stong pa ni bsgrub par bya ba bzhi pa'o ||
 							</p>
 						</div>
 					</div>
 
 					<div type="subsection" n="6.5">
-						<head type="editorial">6.5 The fifth kind of goal in the Way of Mantra</head>
+						<head xml:lang="en" type="editorial">6.5 The fifth kind of goal in the Way of Mantra</head>
 						<div type="root text">
 							<lg xml:id="T12">
 								<l>rang bdag bde ba'i ngo bo mngon byas nas ||</l>
@@ -314,7 +322,7 @@
 					</div>
 
 					<div type="subsection" n="6.6">
-						<head type="editorial">6.6 The sixth kind of goal in the Way of Mantra</head>
+						<head xml:lang="en" type="editorial">6.6 The sixth kind of goal in the Way of Mantra</head>
 						<div type="root text">
 							<lg xml:id="T13">
 								<l>dkyil 'khor bde gang mngon sum byas nas ni ||</l>
@@ -332,13 +340,13 @@
 							</p>
 
 							<p xml:id="TV6.6_3">
-								de ni 'di skad du bstan te | bde bas yang dag par gang ba'i 'khor lo mngon sum du byas nas dus ji srid 'dod <pb n="77r"/>par rnam par gnas te phyis de rnam pa thams cad du mar me bzhin du 'gog pa yin no || yang gang gi tshe sems can gyi don mngon par 'dod par 'gyur na | de tshe 'gag pa nyid las 'khor <lb n="2"/>lo'i khyad par 'byung zhing sems can gyi don mdzad pa'am | 'khor lo'i khyad par 'byung ba yang | ring du 'gags pa'i 'khor lo kho na las skal ba ji lta ba bzhin du gdul bya rnams kyis mngon par 'dod pa rnyed <lb n="3"/>par 'gyur ro zhes bya ba ni drug pa'o ||
+								de ni 'di skad du bstan te | bde bas yang dag par gang ba'i 'khor lo mngon sum du byas nas dus ji srid 'dod <pb n="77r" facs="153"/>par rnam par gnas te phyis de rnam pa thams cad du mar me bzhin du 'gog pa yin no || yang gang gi tshe sems can gyi don mngon par 'dod par 'gyur na | de tshe 'gag pa nyid las 'khor <lb n="2"/>lo'i khyad par 'byung zhing sems can gyi don mdzad pa'am | 'khor lo'i khyad par 'byung ba yang | ring du 'gags pa'i 'khor lo kho na las skal ba ji lta ba bzhin du gdul bya rnams kyis mngon par 'dod pa rnyed <lb n="3"/>par 'gyur ro zhes bya ba ni drug pa'o ||
 							</p>
 						</div>
 					</div>
 
 					<div type="verse" n="6.7">
-						<head type="editorial">6.7 The seventh kind of goal in the Way of Mantra</head>
+						<head xml:lang="en" type="editorial">6.7 The seventh kind of goal in the Way of Mantra</head>
 						<div type="root text">
 							<lg xml:id="T14">
 								<l>de rnams las 'dod ngo bo gsal byas la ||</l>
@@ -353,16 +361,16 @@
 							</p>
 
 							<p xml:id="TV6.7_2">
-								phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma <lb n="5"/>yin nam | 'gog pa de ji ltar na gcig kho nar 'gyur zhes dogs pa la | gang phyir zhes bya ba la sogs pa smos te | tha mi dad pa'i ngo bo gang yin pa de la de skad ces bya ste | phyogs drug gis mtshan nyid kyi dbye <lb n="6"/>bas kyang 'gog pa rnams la tha dad pa yod pa ma yin te | 'gog pa ni dngos po med pa'i ngo bo nyid du gcig cing mtshungs pa nyid kyi phyir ro || don ni 'di yin te | phyogs gzhan zhig mngon sum du byas nas | de'i <pb n="77v"/>'og tu de'i rgyun chad pa'i ngo bo 'gog pa ni bsgrub par bya ba bdun pa'o ||
+								phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma <lb n="5"/>yin nam | 'gog pa de ji ltar na gcig kho nar 'gyur zhes dogs pa la | gang phyir zhes bya ba la sogs pa smos te | tha mi dad pa'i ngo bo gang yin pa de la de skad ces bya ste | phyogs drug gis mtshan nyid kyi dbye <lb n="6"/>bas kyang 'gog pa rnams la tha dad pa yod pa ma yin te | 'gog pa ni dngos po med pa'i ngo bo nyid du gcig cing mtshungs pa nyid kyi phyir ro || don ni 'di yin te | phyogs gzhan zhig mngon sum du byas nas | de'i <pb n="77v" facs="154"/>'og tu de'i rgyun chad pa'i ngo bo 'gog pa ni bsgrub par bya ba bdun pa'o ||
 							</p>
 						</div>
 					</div>
 				</div> <!-- end section 6 -->
 
 				<div type="section" n="7">
-					<head type="editorial">7 Mistaken views regarding the fourth intiation</head>
+					<head xml:lang="en" type="editorial">7 Mistaken views regarding the fourth intiation</head>
 					<div type="subsection" n="7.1">
-						<head type="editorial">7.1 The first mistaken view</head>
+						<head xml:lang="en" type="editorial">7.1 The first mistaken view</head>
 						<div type="root text">
 							<lg xml:id="T15">
 								<l>shes rab ye shes phyis ni byang chub sems ||</l>
@@ -378,7 +386,7 @@
 						</div>
 					</div> <!-- end section 7.1 -->
 					<div type="subsection" n="7.2">
-						<head type="editorial">7.2 The second mistaken view</head>
+						<head xml:lang="en" type="editorial">7.2 The second mistaken view</head>
 						<div type="root text">
 							<lg xml:id="T16">
 								<l>shes rab ye shes phyir ni dga' ba'i ro ||</l>
@@ -396,7 +404,7 @@
 					<div type="subsection" n="7.3">
 						<div type="commentary">
 							<p xml:id="TV7.3_1">
-								de la <quote>de ltar de bzhin bzhi pa yang</quote> zhes bya ba bshad pa la | gsum pa shes rab ye shes las ltos <pb n="77-2r"/>nas bzhi pa zhes bya'o || de ltar zhes bya ba ni de'i sgras shes rab ye shes de nyid kyi ngo bo de mtshon par byed pa yin no || yang zhes bya ba ni yang gi sgras de la khyad par du gyur pa yin la | khyad <lb n="2"/>par yang zag pa med pa shin tu rgyas pa nyid rgyun mi chad par skye ba nyid kyi mtshan nyid do || de bzhin zhes bya ba ni de bzhin gyi sgras de dang 'dra ba nyid du bstan pa yin la | de dang 'dra ba nyid kyang ci 'dra ba'i shes rab dang ldan <lb n="3"/>pa'i tshogs pa las | shes rab ye shes ci 'dra ba skye ba bzhin du | phyis kyang de dang 'dra ba'i tshogs pa las kyang de dang 'dra ba <note place="below">brtson 'grus bar ma chad rgyun ma chad</note> bskyed kyi gzhan du ma yin no zhes bya ba ni | de bzhin gyi sgra'i don yin no ||
+								de la <quote>de ltar de bzhin bzhi pa yang</quote> zhes bya ba bshad pa la | gsum pa shes rab ye shes las ltos <pb n="77-2r" facs="155"/>nas bzhi pa zhes bya'o || de ltar zhes bya ba ni de'i sgras shes rab ye shes de nyid kyi ngo bo de mtshon par byed pa yin no || yang zhes bya ba ni yang gi sgras de la khyad par du gyur pa yin la | khyad <lb n="2"/>par yang zag pa med pa shin tu rgyas pa nyid rgyun mi chad par skye ba nyid kyi mtshan nyid do || de bzhin zhes bya ba ni de bzhin gyi sgras de dang 'dra ba nyid du bstan pa yin la | de dang 'dra ba nyid kyang ci 'dra ba'i shes rab dang ldan <lb n="3"/>pa'i tshogs pa las | shes rab ye shes ci 'dra ba skye ba bzhin du | phyis kyang de dang 'dra ba'i tshogs pa las kyang de dang 'dra ba <note place="below">brtson 'grus bar ma chad rgyun ma chad</note> bskyed kyi gzhan du ma yin no zhes bya ba ni | de bzhin gyi sgra'i don yin no ||
 							</p>
 							<p xml:id="TV7.3_2">
 								'dir mtshon par <lb n="3"/>bya ba dang mtshon par byed pa'i dngos pos don khong du chud par bya ba yin te | 'dis mtshon par byed pas na mtshon byed ste | nyams su myong bar gyur pa'i shes rab ye shes so || rtogs <lb n="4"/>par ma gyur pa ni mtshon byed <sic>nyad</sic> du mi 'thad pa'i phyir dang | khyad par <note place="below">dpe</note> ma bzung bar khyad par <note place="below">don</note> gyi gzhi rtogs par mi 'gyur ba'o || zhes bya ba'i rigs pas 'dis mtshon par byed shes par byed | khong du chud par byed bsgrub <lb n="5"/>par byed pas na <note place="below">mtshon par</note> bya ba bsgom pas mngon sum du gyur pa ni bzhi pa'o ||
@@ -404,10 +412,10 @@
 						</div>
 					</div> <!-- End section 7.3 -->
 					<div type="subsection" n="7.4">
-						<head type="editorial">7.4 The third mistaken view</head>
+						<head xml:lang="en" type="editorial">7.4 The third mistaken view</head>
 						<div type="commentary">
 							<p xml:id="TV3.4">
-								'dir 'ga' <note place="below">gzhan dag na re</note> zhig bzhi pa ni yang dag par ma yin no zhe na <note place="below">rgol</note> | <note place="below">lan</note> de lta na de ma yin pa gzhan de ltar de bzhin <pb n="77-2v"/>bzhi pa yang zhes bya ba der bzhi pa <note place="below">rgyud phyi ma</note> zhes bya ba'i tshig bcom ldan 'das kyis gsungs pa <note place="below">lung <sic>gyis</sic> bsal ba</note> yod pa ma yin nam | de ci ltar med ces brjod | bden te | bcom ldan 'das kyis man ngag bsrung ba'i phyir dang | sems can <lb n="2"/>mgo rmongs par bya ba'i phyir gsum pa kho na la bzhi pa'i sgras gsungs pa yin gyi | gzhan du na de ltar de bzhin bzhi pa yang zhes gsungs par mi <note place="below">rgol</note> 'gyur ro ||
+								'dir 'ga' <note place="below">gzhan dag na re</note> zhig bzhi pa ni yang dag par ma yin no zhe na <note place="below">rgol</note> | <note place="below">lan</note> de lta na de ma yin pa gzhan de ltar de bzhin <pb n="77-2v" facs="156"/>bzhi pa yang zhes bya ba der bzhi pa <note place="below">rgyud phyi ma</note> zhes bya ba'i tshig bcom ldan 'das kyis gsungs pa <note place="below">lung <sic>gyis</sic> bsal ba</note> yod pa ma yin nam | de ci ltar med ces brjod | bden te | bcom ldan 'das kyis man ngag bsrung ba'i phyir dang | sems can <lb n="2"/>mgo rmongs par bya ba'i phyir gsum pa kho na la bzhi pa'i sgras gsungs pa yin gyi | gzhan du na de ltar de bzhin bzhi pa yang zhes gsungs par mi <note place="below">rgol</note> 'gyur ro ||
 							</p>
 							<p xml:id="TV3.4_2">
 								de ni shin tu <note place="below">lan</note> <lb n="3"/>'brel pa med pa yin te | <note place="below">bdun dang de ltar gsum</note> tshad mas grub pa bzhi pa gong du bstan pa'i phyir dang | bstan par bya ba bzhi pa nyid yin pa'i phyir ro || gzhan dag bsgrub pa chen po <note place="below">bsnyen bsgrub yan lag bzhi las</note> bzhi pa yin zhes bya ba la sogs pa'i <lb n="4"/>bzhi zhes pa'i tshig yod pa gang yin pa de nyid 'dir rnam par bkrol ba'i phyir gsungs pa yin gyi | bzhi pa zhes bya ba'i dbang bskur <lb n="5"/>gyi khyad par yang yod pa ni ma yin no zhe'o || de'i 'dod pa <note place="below">ma hA mu tra</note> de nyid ltar na 'di la 'bad pa'i phyir bsgom pa don med pa'i nyes par 'gyur ro || 'bras bu dang <note place="below">lha'i sku dang bde ba dang</note> bcas pa khas len na yang bzhi pa <note place="below">tshig la mi mthun don la mthun</note> grub pa yin no ||
@@ -415,22 +423,22 @@
 						</div>
 					</div> <!-- End of section 7.4 -->
 					<div type="subsection" n="7.5">	
-						<head type="editorial">7.5 Investigation of the target</head>
+						<head xml:lang="en" type="editorial">7.5 Investigation of the target</head>
 						<div type="commentary">
 							<p xml:id="TV7.5">
-								<lb n="6"/>de la mtshon par byed pa shes rab ye shes nyid ni khong du chud la <note place="below">dpe</note> mtshon par bya ba <note place="below">don</note> la thams cad rmongs par 'gyur bas de rnam par dpyad <pb n="78r"/>par bya ste | mtshon par bya ba <note place="below">don</note> yang srid na | don gyi ngo bo zhig gam <note place="below">yul la</note> shes pa'i ngo bo zhig tu 'gyur grang na | de la don gyi ngo bo nyid ni ma yin te | <note place="below">gcig dang du ma dang bral bas</note> don nyid med pa'i phyir dang | gcig dang du ma'i rang bzhin <lb n="2"/>dang bral ba'i tshad mas de bsal ba nyid kyi phyir ro | sngags kyi tshul la yang rnam par shes par <note place="below">sems tsam du</note> smra ba dang | dbu ma pa'i 'dod gzhung gtso bo nyid yin pa'i phyir | shes pa'i ngo bo nyid du 'gyur <lb n="3"/>grang na | shes pa yang rnam pa dang bcas pa zhig gam | rnam pa med pa zhig tu 'gyur | rnam pa dang bcas pa la yang shes pa gnyis med pa'i ngo bo'am | du ma'i ngo bo zhig tu 'gyur zhes rnam par brtag par <lb n="4"/>bya ba yin no ||
+								<lb n="6"/>de la mtshon par byed pa shes rab ye shes nyid ni khong du chud la <note place="below">dpe</note> mtshon par bya ba <note place="below">don</note> la thams cad rmongs par 'gyur bas de rnam par dpyad <pb n="78r" facs="157"/>par bya ste | mtshon par bya ba <note place="below">don</note> yang srid na | don gyi ngo bo zhig gam <note place="below">yul la</note> shes pa'i ngo bo zhig tu 'gyur grang na | de la don gyi ngo bo nyid ni ma yin te | <note place="below">gcig dang du ma dang bral bas</note> don nyid med pa'i phyir dang | gcig dang du ma'i rang bzhin <lb n="2"/>dang bral ba'i tshad mas de bsal ba nyid kyi phyir ro | sngags kyi tshul la yang rnam par shes par <note place="below">sems tsam du</note> smra ba dang | dbu ma pa'i 'dod gzhung gtso bo nyid yin pa'i phyir | shes pa'i ngo bo nyid du 'gyur <lb n="3"/>grang na | shes pa yang rnam pa dang bcas pa zhig gam | rnam pa med pa zhig tu 'gyur | rnam pa dang bcas pa la yang shes pa gnyis med pa'i ngo bo'am | du ma'i ngo bo zhig tu 'gyur zhes rnam par brtag par <lb n="4"/>bya ba yin no ||
 							</p>
 						</div>
 						<div type="subsubsection" n="7.5.1">
-							<head type="editorial">7.5.1 Refutation of consciousness with \emph{ākāra}s</head>
+							<head xml:lang="en" type="editorial">7.5.1 Refutation of consciousness with \emph{ākāra}s</head>
 							<div type="commentary">
 								<p xml:id="TV7.5.1">
-									de la rnam med par smra ba dag ni rnam par shes pa rnam pa dang bcas pa ni thams cad du yod pa ma yin te | nam ka'i me tog dang 'dra'o zhes smra'o || mngon sum la sngon po dang | ser po dang | dkar po la <lb n="5"/>sogs pa dang | bum pa dang | snam bu dang | shing rta la sogs pa'i ngo bor rnam pa rnams snang ba ma yin nam || don <note place="below">rnam pa</note> de dag kyang med pa'i phyir shes pa'i ngo bo nyid yin na | de ji ltar rnam pa dang bcas pa ma yin zhe na | bden <lb n="6"/>te rnam pa rnams snang ba nyid ni yin mod kyi 'on kyang brdzun pa'i ngo bor yang brdzun pa'i ngo bo nyid du gcig dang du ma dang bral ba'i tshad ma'i mtshan nyid kyis rab tu 'grub po || tshad ma'i ngo bo de yang <note place="below">dbu ma de kho na nyid la 'jug pa</note> <pb n="78v"/>gzhan dag tu bshad pa nyid kyis 'dir ma spros so | brdzun pa nyid du grub pas kyang | sgyu ma'i rang bzhin dang 'dra bar rnam par 'khrul pa'i rang bzhin du rab tu ston la | 'khrul pa ldog pas kyang shel sgong dag pa lta bu rnam <lb n="3"/>pa med pa kho na don dam par grub par 'gyur ro || de bas na rnam pa dang bcas pa'i rnam par shes pa ni shes pa gnyis med pa'i ngo bo'am | du ma'i ngo bor yod do zhes pa'i rtog pa gnyis bsal ba yin no ||
+									de la rnam med par smra ba dag ni rnam par shes pa rnam pa dang bcas pa ni thams cad du yod pa ma yin te | nam ka'i me tog dang 'dra'o zhes smra'o || mngon sum la sngon po dang | ser po dang | dkar po la <lb n="5"/>sogs pa dang | bum pa dang | snam bu dang | shing rta la sogs pa'i ngo bor rnam pa rnams snang ba ma yin nam || don <note place="below">rnam pa</note> de dag kyang med pa'i phyir shes pa'i ngo bo nyid yin na | de ji ltar rnam pa dang bcas pa ma yin zhe na | bden <lb n="6"/>te rnam pa rnams snang ba nyid ni yin mod kyi 'on kyang brdzun pa'i ngo bor yang brdzun pa'i ngo bo nyid du gcig dang du ma dang bral ba'i tshad ma'i mtshan nyid kyis rab tu 'grub po || tshad ma'i ngo bo de yang <note place="below">dbu ma de kho na nyid la 'jug pa</note> <pb n="78v" facs="158"/>gzhan dag tu bshad pa nyid kyis 'dir ma spros so | brdzun pa nyid du grub pas kyang | sgyu ma'i rang bzhin dang 'dra bar rnam par 'khrul pa'i rang bzhin du rab tu ston la | 'khrul pa ldog pas kyang shel sgong dag pa lta bu rnam <lb n="3"/>pa med pa kho na don dam par grub par 'gyur ro || de bas na rnam pa dang bcas pa'i rnam par shes pa ni shes pa gnyis med pa'i ngo bo'am | du ma'i ngo bor yod do zhes pa'i rtog pa gnyis bsal ba yin no ||
 								</p>
 							</div>
 						</div> <!-- End of section 7.5.1 -->
 						<div type="subsubsection" n="7.5.2">
-							<head type="editorial">7.5.2 Establishing consciousness without \emph{ākāra}s</head>
+							<head xml:lang="en" type="editorial">7.5.2 Establishing consciousness without \emph{ākāra}s</head>
 							<div type="commentary">
 								<p xml:id="TV7.5.2_1">
 									rnam pa med pa'i shes pa yang dmigs pa'i rig byar gyur pa'i rmi lam na yang mi dmigs pa ma yin nam | de ji ltar na don dam par yod par grub pa zhes bya | 'on te shes pa'i nang na bde ba la sogs pa'i rnam pa <lb n="4"/>yongs su bsal ba'i ngo bo rnam pa med par rig pa kho na yin la | sngon po la sogs pa'i rnam pa yang brdzun par snang ba yin no || gzhan du de dag <note place="below">sems</note> bden pa nyid yin na ni | rnam pa thams cad <note place="below">rnam pa yang</note> bden par gyur la | de ltar yang <lb n="5"/>bzung ba dang 'dzin pa'i dngos po la sogs pa'i yang bden par 'gyur ro || snang ba bden pa nyid du 'gyur ba de bas na de dag thams cad kyang grol ba nyid du thal bar 'gyur te | cung zhig dang log pa'i rnam <lb n="6"/>par 'khrul pa'i ngo bo mi snang ba'i phyir ro || de skad du yang dang 
@@ -440,7 +448,7 @@
 											<l>yang dag mthong na rnam par grol </l>
 										</lg>
 									</quote>
-									zhes gsungs so || de'i phyir mi 'dod du zin kyang sngon po la sogs pa'i rnam pa brdzun <pb n="79r"/>pa nyid du blta bar bya'o || bde ba la sogs pa'i rnam pa brdzun pa bden par dmigs pa yin na | de ci ltar na dmigs pa ma yin zhe na |
+									zhes gsungs so || de'i phyir mi 'dod du zin kyang sngon po la sogs pa'i rnam pa brdzun <pb n="79r" facs="159"/>pa nyid du blta bar bya'o || bde ba la sogs pa'i rnam pa brdzun pa bden par dmigs pa yin na | de ci ltar na dmigs pa ma yin zhe na |
 								</p>
 								<p xml:id="TV7.5.2_2">
 									bde ba la sogs pa'i rnam pa yang rnam pa dang bcas pa'i shes pa kho na <lb n="2"/>la dmigs pa yin te | bde ba la sogs pa'i rnam pa'i rang bzhin nyid yin pa'i phyir ro || bde ba la sogs pa'i rnam pas stong pa'i rnam par shes pa ni rmi lam na yang rig pa med pa ma yin nam | 'on te 'khrul pa ma lus pa <lb n="3"/>dang bral ba'i sa brgyad pa la dmigs pa'i rig byar 'gyur ro zhe na | 'di la yang mna' dor ba ma yin pa'i bsgrub par byed pa'i tshad ma | ni yod pa ma yin pas | de ni bden pa ma yin te | bsam pa yongs su mi shes pa'i phyir dang | bde <lb n="4"/>la sogs pa nyid sngon po la sogs pa'i rnam pa dang bral ba'i rnam par shes pa la rnam pa med pa nyid du 'dod pa nyid kyi phyir | 'on te de yang da ltar nyid na rang rig pa'i <note place="below">gcig du ma'i</note> tshad mas grub pa srog chags thams cad la yod <lb n="5"/>pa yin na | ji ltar dmigs par ma gyur zhe na | 
@@ -448,13 +456,13 @@
 							</div>
 						</div> <!-- End section 7.5.3 -->
 						<div type="subsubsection" n="7.5.3">
-							<head type="editorial">7.5.3 Establishing the Madhyamaka position</head>
+							<head xml:lang="en" type="editorial">7.5.3 Establishing the Madhyamaka position</head>
 							<div type="commentary">
 								<p xml:id="TV7.5.3_1">
 									de yang gcig dang du ma dang bral ba'i phyir brdzun pa nyid dang 'khrul pa tsam yin te | gcig dang du ma'i rang bzhin dang bral ba nyid kyis | rnam pa dang bcas pa pa dang rnam <lb n="6"/>pa med pa'i shes pa la khyab pa nyid kyi phyir ro ||
 								</p>
 								<p xml:id="TV7.5.3_2">
-									gal te rigs pa 'dis rnam pa dang bcas pa dang rnam pa med pa'i shes pa ma lus pa brdzun par rab tu bsgrub pas cung zhig kyang don dam pa'i dngos po de kho na nyid du yang med pa <pb n="79v"/>ma yin nam <note place="below">yin</note> | de ji ltar na mtshon par bya ba'i rang bzhin du tshad mas nye bar mtshon par bya zhe na | nyes pa med de | dbu ma pa 'dod pa'i tshad mas brdzun pa nyid du grub kyang | gcig dang du ma'i rang bzhin dang bral ba chos <lb n="2"/>can gyi ngo bo snang ba sgyu ma lta bu ma bkag pa'i phyir ro || brdzun du snang ba de nyid la mtshon par bya ba dang | mtshon par byed pa dang | 'khor ba dang mya ngan las 'das pa dang | dkyil 'khor gyi 'khor lo la sogs pa <lb n="3"/>bsgoms pas 'gro ba ma lus pa'i don byed pa la sogs pa | gnod pa med pa rnam par gzhag pa grub pa yin no || de skad du yang
+									gal te rigs pa 'dis rnam pa dang bcas pa dang rnam pa med pa'i shes pa ma lus pa brdzun par rab tu bsgrub pas cung zhig kyang don dam pa'i dngos po de kho na nyid du yang med pa <pb n="79v" facs="160"/>ma yin nam <note place="below">yin</note> | de ji ltar na mtshon par bya ba'i rang bzhin du tshad mas nye bar mtshon par bya zhe na | nyes pa med de | dbu ma pa 'dod pa'i tshad mas brdzun pa nyid du grub kyang | gcig dang du ma'i rang bzhin dang bral ba chos <lb n="2"/>can gyi ngo bo snang ba sgyu ma lta bu ma bkag pa'i phyir ro || brdzun du snang ba de nyid la mtshon par bya ba dang | mtshon par byed pa dang | 'khor ba dang mya ngan las 'das pa dang | dkyil 'khor gyi 'khor lo la sogs pa <lb n="3"/>bsgoms pas 'gro ba ma lus pa'i don byed pa la sogs pa | gnod pa med pa rnam par gzhag pa grub pa yin no || de skad du yang
 									<quote>
 										<lg>
 											<l>sangs rgyas dang rdo rje sems dpa' nyid kyang |</l>
@@ -471,7 +479,7 @@
 											<l>grol ba po ni med dang brtson ||</l>
 										</lg>
 									</quote>
-									zhes bya ba'i tshig gis | ji ltar yang rnam par dpyad na yang dag pa'i dngos po'i ngo bo nyid med pa | de lta na yang bdag bde bar gyur cig sdug bsngal bar ma gyur <lb n="6"/>cig ces pa'i sred pa srog chags ma lus pa la yod do || 'di ltar dge ba dang | mi dge pa'i rmi lam log pa nyid du mtshungs kyang | dge ba'i rmi lam mthong bas yid bde bar 'gyur la | mi dge ba'i rmi lam mthong ba las <pb n="80r"/>ni yid mi bde bar 'gyur te | de bsal ba'i phyir dam pa'i chos klog pa dang | sngags zlos pa la sogs pa la rab tu 'jug par 'gyur ro || de bzhin du brdzun pa nyid du khyad med kyang | sdug bsngal la sogs <lb n="2"/>pa rang bzhin gyi rnam par rtog pa spang ba'i phyir dang yang dag par rdzogs pa'i byang chub kyi mtshan nyid 'bras bu thob par bya ba'i phyir rtog pa dang ldan pa'i don du gnyer ba rnams rab tu 'jug par 'gyur ro ||
+									zhes bya ba'i tshig gis | ji ltar yang rnam par dpyad na yang dag pa'i dngos po'i ngo bo nyid med pa | de lta na yang bdag bde bar gyur cig sdug bsngal bar ma gyur <lb n="6"/>cig ces pa'i sred pa srog chags ma lus pa la yod do || 'di ltar dge ba dang | mi dge pa'i rmi lam log pa nyid du mtshungs kyang | dge ba'i rmi lam mthong bas yid bde bar 'gyur la | mi dge ba'i rmi lam mthong ba las <pb n="80r" facs="161"/>ni yid mi bde bar 'gyur te | de bsal ba'i phyir dam pa'i chos klog pa dang | sngags zlos pa la sogs pa la rab tu 'jug par 'gyur ro || de bzhin du brdzun pa nyid du khyad med kyang | sdug bsngal la sogs <lb n="2"/>pa rang bzhin gyi rnam par rtog pa spang ba'i phyir dang yang dag par rdzogs pa'i byang chub kyi mtshan nyid 'bras bu thob par bya ba'i phyir rtog pa dang ldan pa'i don du gnyer ba rnams rab tu 'jug par 'gyur ro ||
 								</p>
 							</div>
 						</div>
@@ -479,7 +487,7 @@
 				</div> <!-- End of section 7 -->
 
 				<div type="section" n="8">
-					<head type="editorial">8 Evaulating the seven types of goals</head>
+					<head xml:lang="en" type="editorial">8 Evaulating the seven types of goals</head>
 					<div type="commentary">
 						<p xml:id="TV8_1">
 							gal te gang gi <lb n="3"/>don du <note place="below">bzhi pa bshad pa'i bshad pa'i dus</note> 'di brtsams pa'i || de'i don <note place="below">bzhi pa</note> ni nyams par 'gyur || 'di ltar mtshan gzhi dang mtshan nyid <note place="below">bzhi pa</note> dpyad pa'i skabs la bab na | de yang gtam gzhan du thal bas brjed pa'i phyir | gang du song ba mi shes so zhe na |
@@ -495,27 +503,27 @@
 						</p>
 					</div>
 					<div type="subsection" n="8.1">
-						<head type="editorial">8.1 The problem of with the first</head>
+						<head xml:lang="en" type="editorial">8.1 The problem of with the first</head>
 						<p xml:id="TV8.1">
-							sngags kyi tshul la brjod <lb n="5"/>pa'i <note place="below">longs spyod rdzogs pa'i</note> rim pa med pa'i phyir <note place="below">bdun mi <unclear reason="could be thang">tshad</unclear></note> dang | snyoms par 'jug pa sgom pa don med pa'i phyir <note place="below">bde ba med pas gsum dang bdun</note> rig pa med pa'i phyir dang snying po med pa'i <note place="below">bde ba</note> nyid de | 'di ltar tshogs pa dang tshogs pa can la 'bras bu gang yin pa de gdon mi za <lb n="6"/>ba nyid yin no || gzhan du na <note place="below">rdo rje dang padma dang lha'i nga rgyal tshogs pa las</note> tshogs pa dang tshogs can nyid du <note place="in line">lus bde ba</note> de mi 'gyur ro || <note place="below">bzhi pa</note> mngon sum du byas pa'i gnas skabs na tshogs <pb n="80v"/>pa dang tshogs pa can de yod pa | des na de gdon mi za bar 'gyur ro || de ltar gyur pa dang po nyams pa yin no ||
+							sngags kyi tshul la brjod <lb n="5"/>pa'i <note place="below">longs spyod rdzogs pa'i</note> rim pa med pa'i phyir <note place="below">bdun mi <unclear reason="could be thang">tshad</unclear></note> dang | snyoms par 'jug pa sgom pa don med pa'i phyir <note place="below">bde ba med pas gsum dang bdun</note> rig pa med pa'i phyir dang snying po med pa'i <note place="below">bde ba</note> nyid de | 'di ltar tshogs pa dang tshogs pa can la 'bras bu gang yin pa de gdon mi za <lb n="6"/>ba nyid yin no || gzhan du na <note place="below">rdo rje dang padma dang lha'i nga rgyal tshogs pa las</note> tshogs pa dang tshogs can nyid du <note place="in line">lus bde ba</note> de mi 'gyur ro || <note place="below">bzhi pa</note> mngon sum du byas pa'i gnas skabs na tshogs <pb n="80v" facs="162"/>pa dang tshogs pa can de yod pa | des na de gdon mi za bar 'gyur ro || de ltar gyur pa dang po nyams pa yin no ||
 						</p>
 					</div>
 					<div type="subsection" n="8.2">
-						<head type="editorial">8.2 The problem of with the second</head>
+						<head xml:lang="en" type="editorial">8.2 The problem of with the second</head>
 						<p xml:id="TV8.2">
 							sku la sogs pa'i rnam pas stong <note place="below">longs spyod rdzog<unclear>s</unclear> snying rje rgyun bde ba chen po zag pa med</note> pa'i bde ba'i ngo bo 'ba' shig mi dmigs pas | gnyis pa bden <note place="inline">pa</note> nyid ma yin te | 'di <lb n="2"/>ltar mtshan mas <note place="below">de ltar de bzhi pa yang</note> rnam par <note place="below">bdun</note> nges pa nyid rtog pa dang ldan pas | bsgom par bya ba yin gyi | gang yang rung ba ni ma <note place="below">drug</note> ma yin no || tshad mas grub pa'i ngo bo thams cad du dmigs la de nyid <lb n="3"/>skye bo thams cad kyis 'dod par bya ba nyid du snang ngo || de bas na gcig pu <note place="below">bzhi pa</note> ma dmigs pa'i phyir dang | 'dod pa med pa'i phyir dang | 'khor lo'i rnam pa'i rang bzhin ma dmigs pa'i <lb n="4"/>phyir dang | mngon du byed pa mi nus pa'i phyir dang | 'bad pa <note place="below">lha'i sku bde ba</note> nyid mtshungs pa'i phyir gnyis pa rnam par rtog pa tsam yin no ||
 						</p>
 					</div>
 					<div type="subsection" n="8.3">
-						<head type="editorial">8.3 The problem of with the third</head>
+						<head xml:lang="en" type="editorial">8.3 The problem of with the third</head>
 						<p xml:id="TV8.3">
 							gnod par byed pa med pa'i yang dag ba'i don gyi rang bzhin nyid kyis rang dbang du gyur pa dor <lb n="5"/>bar mi nus pa nyid kyi phyir dang | ldan pa'i ngo bo la bye <note place="inline">lha'i sku bde ba</note> brag med pa'i phyir dang | dgos pa med pa'i phyir gsum pa dge ba ma yin te | <note place="inline">bzhi pa la</note> 'di ltar lhan cig dmigs nas de'i bdag nyid grub pa las | gcig <lb n="6"/>yongs su dor na gzhan yang gdon mi <note place="inline">gnyis pa dang</note> za bar yongs <note place="inline">bde ba</note> su spangs pa'am | yang na 'ga' zhig kyang ma yin no ||
 						</p>
 					</div>
 					<div type="subsection" n="8.4">
-						<head type="editorial">8.4 The problem of with the fourth</head>
+						<head xml:lang="en" type="editorial">8.4 The problem of with the fourth</head>
 						<p xml:id="TV8.4_1">
-							<note place="below">bzhi pa</note> spros pa nyid kyis 'bad pa mangs pa nyid kyi phyir dang | rnam par dpyad <pb n="81r"/>mi bzod pa nyid kyis 'khrul pa'i ngo bo nyid yin pas don dam pa'i ngo bo nyid ma yin pa'i phyir | gsum pa'i mtha' ma'i phyogs kyang legs pa ma yin no zhe na | de la 'ga' zhig rigs pa brjod par <lb n="2"/>byed de | spros pa'i <note place="below">bskyed pa'i rim pa'i spro bsdu</note> ngo bo nyid du gyur kyang phra mo dang thig le la sogs pa yang dang yang du bsgom pa na | yang ji srid mngon sum du gyur pa de srid du 'bad pas yang dang yang du bsgom pa'i phyir thams cad du bsgom par bya <note place="below"><unclear>thig le dang phra mo</unclear></note> <lb n="3"/>ba'i dngos po yod do || de la 'dir gal te 'bad pas 'jigs na ni || cung zhig dang <note place="below">thig le</note> bsgom par mi bya'o ||
+							<note place="below">bzhi pa</note> spros pa nyid kyis 'bad pa mangs pa nyid kyi phyir dang | rnam par dpyad <pb n="81r" facs="163"/>mi bzod pa nyid kyis 'khrul pa'i ngo bo nyid yin pas don dam pa'i ngo bo nyid ma yin pa'i phyir | gsum pa'i mtha' ma'i phyogs kyang legs pa ma yin no zhe na | de la 'ga' zhig rigs pa brjod par <lb n="2"/>byed de | spros pa'i <note place="below">bskyed pa'i rim pa'i spro bsdu</note> ngo bo nyid du gyur kyang phra mo dang thig le la sogs pa yang dang yang du bsgom pa na | yang ji srid mngon sum du gyur pa de srid du 'bad pas yang dang yang du bsgom pa'i phyir thams cad du bsgom par bya <note place="below"><unclear>thig le dang phra mo</unclear></note> <lb n="3"/>ba'i dngos po yod do || de la 'dir gal te 'bad pas 'jigs na ni || cung zhig dang <note place="below">thig le</note> bsgom par mi bya'o ||
 						</p>
 						<p xml:id="TV8.4_2">
 							spros pa nyid kyis ngo bo nyid yin pa'i phyir ro zhe na | spros pa dang <note place="below">'khor lo'i rnam pa 'khor lo'i rnam pa</note> spros pa med pa <note place="below">thig le dang phra mo</note> dag bsgom pa'i <lb n="4"/>gnas skabs na khyad par ci zhig yod | 'on te spros pa med pa myur du brtan por gyur pa <note place="below">khyad par</note> 'di yin no zhe na | dmigs pa gang kho na la sems yun ring por rgyun mi <lb n="5"/>chad par yang dang yang du gtad pas de nyid brtan por 'gyur zhes bya ba ni lung yin no || 'di la rigs pa yang yod de | 'di skad du
@@ -532,7 +540,7 @@
 								<lg>
 									<l>'dir thag mi ring ba na <note place="below">rang sems</note> gnas pa yang |</l>
 									<l>e ma'o rmongs nyid e ma'o snyom las can ||</l>
-									<l>e ma'o mdzes pa'i don la rgyab kyis <pb n="81v"/>phyogs ||</l>
+									<l>e ma'o mdzes pa'i don la rgyab kyis <pb n="81v" facs="164"/>phyogs ||</l>
 									<l>rang sems tsam dang 'brel pa'i <note place="below">rang sems rtogs na</note> sangs rgyas nyid ||</l>
 									<l>rang <note place="below">don</note> mi gnas kyang gang zhig <note place="below">sems la</note> rten mi byed ||</l>
 								</lg>
@@ -547,27 +555,27 @@
 						</p>
 					</div>
 					<div type="subsection" n="8.5">
-						<head type="editorial">8.5 The problem of with the fifth</head>
+						<head xml:lang="en" type="editorial">8.5 The problem of with the fifth</head>
 						<p xml:id="TV8.5_1">
 							gsum pa'i phyogs la bshad pa'i nyes pa yod pa <lb n="6"/>dang | dgos pa med pa'i phyir dang | gsang sngags kyi tshul gyi rim pa med pa'i phyir lnga pa skyon dang bral ba ma yin no ||
 						</p>
 						<p xml:id="TV8.5_2">
-							sngar mngon sum du byas pa'i phyir sngags kyi tshul la rab tu sbyor ba yod pa <pb n="82r"/>ma yin nam | de ci'i phyir de la med ce na bden te | bsgrub par bya ba 'bras bu mngon du gyur pa'i gnas skabs na de yang rim pa 'di la med pa dang | mngon sum du gyur pa yongs su btang ba la dgos pa yang ma <lb n="2"/>mthong ba'i phyir ro ||
+							sngar mngon sum du byas pa'i phyir sngags kyi tshul la rab tu sbyor ba yod pa <pb n="82r" facs="165"/>ma yin nam | de ci'i phyir de la med ce na bden te | bsgrub par bya ba 'bras bu mngon du gyur pa'i gnas skabs na de yang rim pa 'di la med pa dang | mngon sum du gyur pa yongs su btang ba la dgos pa yang ma <lb n="2"/>mthong ba'i phyir ro ||
 						</p>
 					</div>
 					<div type="subsection" n="8.6">
-						<head type="editorial">8.6 The problem of with the sixth</head>
+						<head xml:lang="en" type="editorial">8.6 The problem of with the sixth</head>
 						<p xml:id="TV8.6_1">
 							rang gi 'dod pa bzlog mi nus pa'i phyir dang | dgos pa med pa'i phyir dang | sems can gyi don med pa'i phyir lnga pa'i mtha'i rab tu dbye ba rtog pa'i dri mas stong pa ma yin te | 'di ltar 'ga' zhig ldog <lb n="3"/>pa ni rgyu ldog pa'am | khyab par byed pa ldog par 'gyur na | de la mngon sum du byas pa'i dkyil 'khor gyi 'khor lo ldog par byed pa ni | rgyu'am khyab par byed pa logs pas yang ma yin no | rang gi 'gog par yang mi <lb n="4"/>nus pa ni mi mthun pa med pa'i phyir te | sdug bsngal la sogs pa 'gog par 'dod pa na yang sdug bsngal la sogs pa la 'jug pa mthong ba'i phyir ro ||
 						</p>
 						<p xml:id="TV8.6_2">
-							stong pa nyid kyis ldog par byed pa yod ma yin nam | 'di <lb n="5"/>ltar shing gi phung po la me rab tu 'bar bas shing ma lus pa thal bar byas nas | de'i 'og tu bdag nyid kyang <note place="below">me rang</note> rang gi ngang kho nas ldog par 'gyur ba de ltar dkyil 'khor gyi 'khor lo stong pa nyid kyi ye shes kyi me rab tu <lb n="6"/>'bar bas mngon sum du byas nas kyang | dkyil 'khor gyi 'khor lo ma lus par ldog par byed la | bdag nyid kyang rang gi ngang gis ldog par 'gyur ro zhe na | de ni bden pa ma yin te | dpe la skyon yod pa'i phyir ro || <pb n="82v"/>'di ltar de la shing 'gyur bar byed pa'i rgyur gyur pa'i me ni shing 'gyur ba yang dag par skyed pa nyid kyis | shing 'gyur bar byed pa ni me yin no zhes 'jig rten pa rnams sems la | 'dir ni stong pa nyid ni dkyil <lb n="2"/>'khor gyi 'khor lo 'gyur bar byed pa'i rgyu ma yin na | de'i phyir de ldog par byed pa yin | stong pa nyid la rang gi ngang gis ldog go zhes kyang smra bar bya ba ma yin no ||
+							stong pa nyid kyis ldog par byed pa yod ma yin nam | 'di <lb n="5"/>ltar shing gi phung po la me rab tu 'bar bas shing ma lus pa thal bar byas nas | de'i 'og tu bdag nyid kyang <note place="below">me rang</note> rang gi ngang kho nas ldog par 'gyur ba de ltar dkyil 'khor gyi 'khor lo stong pa nyid kyi ye shes kyi me rab tu <lb n="6"/>'bar bas mngon sum du byas nas kyang | dkyil 'khor gyi 'khor lo ma lus par ldog par byed la | bdag nyid kyang rang gi ngang gis ldog par 'gyur ro zhe na | de ni bden pa ma yin te | dpe la skyon yod pa'i phyir ro || <pb n="82v" facs="166"/>'di ltar de la shing 'gyur bar byed pa'i rgyur gyur pa'i me ni shing 'gyur ba yang dag par skyed pa nyid kyis | shing 'gyur bar byed pa ni me yin no zhes 'jig rten pa rnams sems la | 'dir ni stong pa nyid ni dkyil <lb n="2"/>'khor gyi 'khor lo 'gyur bar byed pa'i rgyu ma yin na | de'i phyir de ldog par byed pa yin | stong pa nyid la rang gi ngang gis ldog go zhes kyang smra bar bya ba ma yin no ||
 						</p>
 						<p xml:id="TV8.6_3">
 							rgyur mi 'gyur du chug na stong pa nyid khyab <lb n="3"/>par byed pa ni 'gyur ba ma yin nam | khyab par byed pa shing ldog pas khyab par bya ba shing sha pa ldog pa bzhin du ldog par 'gyur ro zhe na | de yang snying po ma yin te 'di ltar shes bya'i dkyil 'khor thams cad <lb n="4"/>la khyab par byed pa de kho na nyid kyi stong pa nyid de la ldog pa yang yod pa ma yin no || gal te 'gyur na yang dag par rdzogs pa'i byang chub mngon sum du byed pa las dus snga ma'am | de ma thag tu sangs rgyas <lb n="5"/>bcom ldan 'das ldog par 'gyur na | de lta ni ma yin te | yang dag par rdzogs pa'i sangs rgyas su gyur nas kyang thugs rjes dus ji srid cig gi gnas skabs nyid kyis zhal gyis bzhes pa'i phyir 'gyur ba <lb n="6"/>yang ma yin no ||
 						</p>
 						<p xml:id="TV8.6_4">
-							'on kyang stong pa nyid kyang ye shes kyi ngo bo yin la | 'khor lo yang ye shes kyi ngo bo nyid yin no || stong pa nyid kyi ye shes skyes pas 'khor lo'i ye shes ni ldog na | stong pa nyid kyi ye shes gang <pb n="83r"/>gis ldog par byed | de nyid <note place="below">rang gi ngang</note> kyis ldog pa yang 'gal ba med pa'i phyir dang | rgyu 'am khyab par byed pa med pa las <note place="below">ngang gis</note> med pa bas na | stong pa nyid kyi ye shes la ldog pa med do || dkyil 'khor gyi <lb n="2"/>'khor lo la yang stong pa nyid kyis ldog go zhes bya ba yang ma yin te | stong pa nyid kyis ldog par byed pa ma yin pa la |
+							'on kyang stong pa nyid kyang ye shes kyi ngo bo yin la | 'khor lo yang ye shes kyi ngo bo nyid yin no || stong pa nyid kyi ye shes skyes pas 'khor lo'i ye shes ni ldog na | stong pa nyid kyi ye shes gang <pb n="83r" facs="167"/>gis ldog par byed | de nyid <note place="below">rang gi ngang</note> kyis ldog pa yang 'gal ba med pa'i phyir dang | rgyu 'am khyab par byed pa med pa las <note place="below">ngang gis</note> med pa bas na | stong pa nyid kyi ye shes la ldog pa med do || dkyil 'khor gyi <lb n="2"/>'khor lo la yang stong pa nyid kyis ldog go zhes bya ba yang ma yin te | stong pa nyid kyis ldog par byed pa ma yin pa la |
 						</p>
 						<p xml:id="TV8.6_5">
 							stong pa nyid kyis ldog par byed pa yin zhes su zhig smra | 'on kyang <lb n="3"/>ldog par byed pa gang yin pa de ni bla ma'i man ngag las shes so zhes zer ba 'di yang snying po ma yin te | bla ma'i man ngag las kyang stong pa nyid kyis ldog par byed pa ma yin ldog pa'i tshad ma cung zhig kyang <lb n="4"/>yod pa ma yin pas so sor skad cig ma'i <sic>'jigs pa</sic> dang | skad cig gis nyams pa'i ngo bos dngos po thams cad la khyab pa'i tshe rgyud kyi rgyun ldog par byed pa ni ma yin no || de'i phyir rang gi 'dod pas <lb n="5"/>mi 'gyur te | ldog pa'i snying po med pa yang rtog pa dang ldan pa rnams la dgos pa yod pa ma yin no || de skad du yang
@@ -582,7 +590,7 @@
 							zhes gsungs so ||
 						</p>
 						<p xml:id="TV8.6_6">
-							sems can don yang ldog pa <add>la</add> med do || nam ka dang nam ka'i me tog la nam yang don gyi bya ba cung zhig <pb n="83v"/>kyang mi srid do || yun ring por 'gags kyang dngos po med pa'i ngo bo 'das pa'i 'khor lo las sems can gyi don 'byung bar 'gyur ro zhes bya ba yang snying po ma yin te | yun ring por lon pa'i khyim bya shi ba'i sgra sgrogs <lb n="2"/>par thal ba'i phyir ro ||
+							sems can don yang ldog pa <add>la</add> med do || nam ka dang nam ka'i me tog la nam yang don gyi bya ba cung zhig <pb n="83v" facs="168"/>kyang mi srid do || yun ring por 'gags kyang dngos po med pa'i ngo bo 'das pa'i 'khor lo las sems can gyi don 'byung bar 'gyur ro zhes bya ba yang snying po ma yin te | yun ring por lon pa'i khyim bya shi ba'i sgra sgrogs <lb n="2"/>par thal ba'i phyir ro ||
 						</p>
 						<p xml:id="TV8.6_7">
 							'on te rnal 'byor pa'i byin gyis brlabs kyis nam mkha' las kyang don byed pa srid pa ma yin nam zhe na | rnal 'byor pa'i byin gyi brlabs nyid sems kyi ngo bo nyid kyis don byed pa yin la | nam mkha' <lb n="3"/>ni ma yin te | de'i ngo bo nyid ma yin pa'i phyir ro ||
@@ -592,15 +600,15 @@
 						</p>
 					</div>
 					<div type="subsection" n="8.7">
-						<head type="editorial">8.7 The problem of with the seventh</head>
+						<head xml:lang="en" type="editorial">8.7 The problem of with the seventh</head>
 						<p xml:id="TV8.7">
-							drug pa'i phyogs la bshad pa'i skyon gyi tshogs bdun pa la yang yod pas | btags pa la 'thag pa mi bya'o || <lb n="6"/>drug pa dang bdun pa mtshungs pa nyid kyi phyir de las bdun pa khyad par ci yod ce na | khyad par yod de snga ma'i gnas skabs su 'khor lo'i rnam pa nyid nges par byas nas | yang rang gi 'dod pas 'gog cing rang <pb n="84r"/>gi 'dod pas skyed par byed pa'i phyir la | bdun pa la yang med pa de bas na mtshungs pa dang tha mi dad pa ma yin par bstan to ||
+							drug pa'i phyogs la bshad pa'i skyon gyi tshogs bdun pa la yang yod pas | btags pa la 'thag pa mi bya'o || <lb n="6"/>drug pa dang bdun pa mtshungs pa nyid kyi phyir de las bdun pa khyad par ci yod ce na | khyad par yod de snga ma'i gnas skabs su 'khor lo'i rnam pa nyid nges par byas nas | yang rang gi 'dod pas 'gog cing rang <pb n="84r" facs="169"/>gi 'dod pas skyed par byed pa'i phyir la | bdun pa la yang med pa de bas na mtshungs pa dang tha mi dad pa ma yin par bstan to ||
 						</p>
 					</div>
 				</div> <!-- End of section 8 -->
 
 				<div type="section" n="9">
-					<head type="editorial">9 The nature of the fourth initiation</head>
+					<head xml:lang="en" type="editorial">9 The nature of the fourth initiation</head>
 					<div type="root text">
 						<lg xml:id="T17">
 							<l>rdo rje'i sa bon dri med dga' 'bab pa ||</l>
@@ -617,7 +625,7 @@
 				</div>
 
 				<div type="section" n="10">
-					<head type="editorial">10 Other false goals and realities</head>
+					<head xml:lang="en" type="editorial">10 Other false goals and realities</head>
 					<div type="root text">
 						<lg xml:id="T18">
 							<l>gsal byed bdud rtsi lnga dang thig le zla ba dang |</l>
@@ -632,7 +640,7 @@
 						</p>
 
 						<p xml:id="TV10_2">
-							smin dbus thig le las byung dkyil 'khor zhes bya ba ni | smin ma'i dbus te mdzod spu'i gnas su thig le rnam par sgom par bya'o || thig le de las byung ba'i dkyil 'khor ni rlung <note place="below">g.yon dang</note> dang chu <note place="below">dal ba</note> dang <lb n="6"/>dbang chen <note place="below">gnyi ga</note> gyi dkyil 'khor dang <note place="below">kha dog mthun par |</note> me'i mtshan <note place="below">g.ya'</note> nyid do || 'di skad du bshad par 'gyur te | kha dang rna ba dang sna dang mig lag pa'i sor mos bkab la smin ma'i dbus su thig le blta bar bya'o || de yang <pb n="84v"/>gsal por gyur pa'i gnas skabs su dge ba dang | mi dge ba'i ltas yang dag par ston par byed pa dbang chen gyi la sogs pa'i dkyil 'khor rab tu skyed pa'i thig le de la yang de kho na nyid du sems so ||
+							smin dbus thig le las byung dkyil 'khor zhes bya ba ni | smin ma'i dbus te mdzod spu'i gnas su thig le rnam par sgom par bya'o || thig le de las byung ba'i dkyil 'khor ni rlung <note place="below">g.yon dang</note> dang chu <note place="below">dal ba</note> dang <lb n="6"/>dbang chen <note place="below">gnyi ga</note> gyi dkyil 'khor dang <note place="below">kha dog mthun par |</note> me'i mtshan <note place="below">g.ya'</note> nyid do || 'di skad du bshad par 'gyur te | kha dang rna ba dang sna dang mig lag pa'i sor mos bkab la smin ma'i dbus su thig le blta bar bya'o || de yang <pb n="84v" facs="170"/>gsal por gyur pa'i gnas skabs su dge ba dang | mi dge ba'i ltas yang dag par ston par byed pa dbang chen gyi la sogs pa'i dkyil 'khor rab tu skyed pa'i thig le de la yang de kho na nyid du sems so ||
 						</p>
 
 						<p xml:id="TV10_3">
@@ -640,7 +648,7 @@
 						</p>
 
 						<p xml:id="TV10_4">
-							lce'u chung zhes bya ba ni | mid pa'i phyogs lce'i phugs kyi steng na glang po che'i <lb n="5"/>sna'i rnam pa lta bu kha 'og tu ltas pa nye ba'i lce'i ming can lce'u chung yod do || de yang nus pa'i rang bzhin no de'i 'og na zhi ba'i ngo bo yod pa de kho na nyid yin no || de la yang lce'i rtse mos reg par gyur pa na bdud rtsi'i <lb n="6"/>rgyun mi 'chad par 'dzag par 'gyur ro || bdud rtsi'i rgyun 'bab pa des don dam pa'i bdag nyid tshim par gyur par sgom mo || zhes bya ba ni lce'u chung gi <note place="below">zhi ba'i ngo bo</note> de kho na nyid yin no || sogs pa'i sgras snying ka'i dbus kyi 'khor <pb n="85r"/>lo rtsibs bcu drug pa'i dbus na gnas pa ye shes kyi rang bzhin zhi ba'i ngo bo de kho na nyid bsgom par bya'o zhes bya ba la sogs pa bzung ngo || de yang smras pa | bcu las drug lhag rtsa dang <lb n="2"/>ldan pa'i 'khor lo'i dkyil na gnas pa snying kar rnam par gnas pa'i bdag | des ni de'i khyad par lta bu yi grub pa ster | de ni mngon par mi g.yo ba'i yid dag gis || rnal 'byor pa yis de <lb n="3"/>ltar mngon par bsam par bya || nus par gyur pa'i mgon po rgyal bar gyur || de ni nus pa dag gis de ni yongs su bskyor dang bcas ||
+							lce'u chung zhes bya ba ni | mid pa'i phyogs lce'i phugs kyi steng na glang po che'i <lb n="5"/>sna'i rnam pa lta bu kha 'og tu ltas pa nye ba'i lce'i ming can lce'u chung yod do || de yang nus pa'i rang bzhin no de'i 'og na zhi ba'i ngo bo yod pa de kho na nyid yin no || de la yang lce'i rtse mos reg par gyur pa na bdud rtsi'i <lb n="6"/>rgyun mi 'chad par 'dzag par 'gyur ro || bdud rtsi'i rgyun 'bab pa des don dam pa'i bdag nyid tshim par gyur par sgom mo || zhes bya ba ni lce'u chung gi <note place="below">zhi ba'i ngo bo</note> de kho na nyid yin no || sogs pa'i sgras snying ka'i dbus kyi 'khor <pb n="85r" facs="171"/>lo rtsibs bcu drug pa'i dbus na gnas pa ye shes kyi rang bzhin zhi ba'i ngo bo de kho na nyid bsgom par bya'o zhes bya ba la sogs pa bzung ngo || de yang smras pa | bcu las drug lhag rtsa dang <lb n="2"/>ldan pa'i 'khor lo'i dkyil na gnas pa snying kar rnam par gnas pa'i bdag | des ni de'i khyad par lta bu yi grub pa ster | de ni mngon par mi g.yo ba'i yid dag gis || rnal 'byor pa yis de <lb n="3"/>ltar mngon par bsam par bya || nus par gyur pa'i mgon po rgyal bar gyur || de ni nus pa dag gis de ni yongs su bskyor dang bcas ||
 						</p>
 
 						<p xml:id="TV10_5">
@@ -650,7 +658,7 @@
 				</div>
 
 				<div type="section" n="11">
-					<head type="editorial">11 Conclusion</head>
+					<head xml:lang="en" type="editorial">11 Conclusion</head>
 					<div type="root text">
 						<lg xml:id="T19">
 							<l>rmi lam mig 'phrul <lb n="5"/>gzugs brnyan sgyu ma dang ||</l>
@@ -674,14 +682,14 @@
 					</div>
 					<div type="commentary">
 						<p xml:id="TV11_2">
-							<pb n="85v"/>zab mo stong nyid so so snang ba tsam || zhi ba shin tu sgras brjod min || ma gos dngos bral dri med la sogs dang || zhes bya ba la sogs pa'i sgra yis | zhi ba dang rnam pa med pa dang | spros pa med pa dang | <lb n="2"/>thog ma med pa dang | 'gag pa med pa zhes bya ba la sogs sgra yis kyang 'khrul par mi bya zhing | gzhan bsgrub tu yod pa ni | gzhan gyi bsgrub par bya ba yod pa ste | 'dir yod pa'i sgras des bshad pa'i <lb n="3"/>sgrub par bya ba las mchog 'ga' shig yod do zhes 'khrul par mi bya ste | bshad pa bsgrub bya kho na de dag thams cad kyis brjod par bya ba yin zhes nges par bya'o ||
+							<pb n="85v" facs="172"/>zab mo stong nyid so so snang ba tsam || zhi ba shin tu sgras brjod min || ma gos dngos bral dri med la sogs dang || zhes bya ba la sogs pa'i sgra yis | zhi ba dang rnam pa med pa dang | spros pa med pa dang | <lb n="2"/>thog ma med pa dang | 'gag pa med pa zhes bya ba la sogs sgra yis kyang 'khrul par mi bya zhing | gzhan bsgrub tu yod pa ni | gzhan gyi bsgrub par bya ba yod pa ste | 'dir yod pa'i sgras des bshad pa'i <lb n="3"/>sgrub par bya ba las mchog 'ga' shig yod do zhes 'khrul par mi bya ste | bshad pa bsgrub bya kho na de dag thams cad kyis brjod par bya ba yin zhes nges par bya'o ||
 						</p>
 					</div>
 				</div>
 			</div>
 
 			<div type="section" n="12">
-				<head type="editorial">12 Dedication</head>
+				<head xml:lang="en" type="editorial">12 Dedication</head>
 				<div type="root text">
 					<lg xml:id="T21">
 						<l>rnam pa bdun po bkod pa'i ngo bo dag las nam mkha' ma lus pa'i ||</l>
@@ -721,4 +729,5 @@
 			</div>
 		</body>
 	</text>
+    <facsimile><graphic url="https://iiifpres.bdrc.io/v:bdr:I1PD31420/manifest" facs="140"/></facsimile>
 </TEI>
