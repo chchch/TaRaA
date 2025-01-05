@@ -805,7 +805,7 @@
   </app>
   <app corresp="443,447">
     <lem wit="#TVB-Gpc #TVA-D">zhig</lem>
-    <rdg wit="#TVB-Gac">dang zhig</rdg>
+    <rdg wit="#TVB-Gac"><del rend="cancelled">dang</del> zhig</rdg>
   </app>
   <app corresp="465,467">
     <lem wit="#TVA-D">de</lem>
@@ -843,7 +843,7 @@
   </app>
   <app corresp="141,167">
     <lem wit="#TVA-D">dpe med pa ste | dpe las 'das pa'i</lem>
-    <rdg wit="#TVB-G">dpe las 'das pa'o ||</rdg>
+    <rdg wit="#TVB-G">dpe las 'das <pb n="71r" facs="141"/>pa'o ||</rdg>
   </app>
   <app corresp="208,212">
     <lem wit="#TVA-D">pa'i</lem>
@@ -867,7 +867,7 @@
   </app>
   <app corresp="477,492">
     <lem wit="#TVA-D">'phral gyi phan pa</lem>
-    <rdg wit="#TVB-G">bde ba</rdg>
+    <rdg wit="#TVB-G">bde <lb n="3"/>ba</rdg>
   </app>
   <app corresp="501,509">
     <lem wit="#TVA-D">los sgyur</lem>
