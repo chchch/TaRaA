@@ -22,7 +22,31 @@
                         </typeDesc>
 					</physDesc>
 				</msDesc>
-			<listWit><witness xml:id="TVA-D" source="witnesses/tva_d.xml"><abbr type="siglum">TVA-D</abbr><expan>De kho na nyid rin po che snang ba'i rnam par bshad pa</expan></witness><witness xml:id="TVB-G" source="witnesses/tvb_g.xml"><abbr type="siglum">TVB-G</abbr><expan>De kho na nyid rin po che snang ba'i rnam par bshad pa</expan><listWit><witness xml:id="TVB-Gac" n="ac"><abbr type="siglum">TVB-Gac</abbr><expan>De kho na nyid rin po che snang ba'i rnam par bshad pa [ante correctionem]</expan></witness><witness xml:id="TVB-Gpc" n="pc"><abbr type="siglum">TVB-Gpc</abbr><expan>De kho na nyid rin po che snang ba'i rnam par bshad pa [post correctionem]</expan></witness></listWit></witness><witness xml:id="Ed" source="Ed.xml"><abbr type="siglum">Ed</abbr><expan>De kho na nyid rin po che snang ba'i rnam par bshad pa</expan></witness></listWit></sourceDesc>
+<listWit>
+  <witness xml:id="TVA-D" source="witnesses/tva_d.xml">
+    <abbr type="siglum">TVA-D</abbr>
+    <expan>De kho na nyid rin po che snang ba'i rnam par bshad pa</expan>
+  </witness>
+  <witness xml:id="TVB-G" source="witnesses/tvb_g.xml">
+    <abbr type="siglum">TVB-G</abbr>
+    <expan>De kho na nyid rin po che snang ba'i rnam par bshad pa</expan>
+    <listWit>
+      <witness xml:id="TVB-Gac" n="ac">
+        <abbr type="siglum">TVB-G<hi rend="subscript">ac</hi></abbr>
+        <expan>De kho na nyid rin po che snang ba'i rnam par bshad pa [ante correctionem]</expan>
+      </witness>
+      <witness xml:id="TVB-Gpc" n="pc">
+        <abbr type="siglum">TVB-G<hi rend="subscript">pc</hi></abbr>
+        <expan>De kho na nyid rin po che snang ba'i rnam par bshad pa [post correctionem]</expan>
+      </witness>
+    </listWit>
+  </witness>
+  <witness xml:id="Ed" source="Ed.xml">
+    <abbr type="siglum">Ed</abbr>
+    <expan>De kho na nyid rin po che snang ba'i rnam par bshad pa</expan>
+  </witness>
+</listWit>
+            </sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
